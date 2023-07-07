@@ -3,7 +3,7 @@
 - There is physics section.
 
 #### BAS-101 Engineerin Physics
-[Physics Pdf]("https://github.com/princekunal101/academic-section/blob/main/Question%20Paper%20AKTU/First%20yr%20(SEM%20I)%202022-23/BAS%20101%20Engg.%20Physics.pdf")
+[Physics Pdf]("https://github.com/princekunal101/academic-section/blob/main/Studies/Question-paper-aktu/First-yr%20(SEM%20I)%202022-23/bas-101-engg-physics.pdf")
 #### BAS-104 Environment and Ecology
 [Environment Pdf]("")
 
