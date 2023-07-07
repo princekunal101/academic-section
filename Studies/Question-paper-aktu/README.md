@@ -14,4 +14,7 @@
 #### BEE-101 Fundamental of Electrical Engineering
 [Electrical Pdf]("https://github.com/princekunal101/academic-section/blob/main/Studies/Question-paper-aktu/First-yr-odd-sem-2022-23/bee-101-fee.pdf")
 
+
+#### NAS-203 Engineering Mathematics II
+[Mathematics Pdf]("https://github.com/princekunal101/academic-section/blob/main/Studies/Question-paper-aktu/btech-2-sem-engineering-mathematics-2-nas203-2017.pdf")
 - If you want to dawnload you can dowload it.
