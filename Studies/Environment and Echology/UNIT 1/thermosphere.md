@@ -1,0 +1,2 @@
+### Thermosphere 
+Thermosphere lies above the mesosphere and this is a region where the temperature increases as you go higher up. The temperature increase is caused due to the absorption of energetic ultraviolet and X-ray radiation from the sun. However, the air in this layer is so thin that it would feel freezing cold to us! Satellites orbit Earth within the thermosphere. Temperatures in the upper thermosphere can range from about 500° C to 2,000° C or higher. The aurora, the Northern Lights and Southern Lights, occur in the thermosphere. 
