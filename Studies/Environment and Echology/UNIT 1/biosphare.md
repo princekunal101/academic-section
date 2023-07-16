@@ -1,12 +1,12 @@
 ### Biosphere:
  The biosphere is made up of the parts of Earth where life exists—all ecosystems. The biosphere extends from the deepest root systems of trees, to the dark environments of ocean trenches, to lush rain forests, high mountaintops, and transition zones like this one, where ocean and terrestrial ecosystems meet. The biosphere supports all life on Earth, 3 to 30 million species of plants, animals, fungi, single-celled prokaryotes such as bacteria, and single-celled eukaryotes such as protozoans. 
- ![Biosphare]()
+ ![Biosphare](https://raw.githubusercontent.com/princekunal101/academic-section/main/Studies/Environment%20and%20Echology/figures/biosphere.jpg)
 
  *The biosphere, or “zone of life,” an energy-diverting layer that uses the matter of Earth to create living substance, was created by this development of life in the thin outer layer of the geosphere*
 
  #### Components of Biosphere 
 
-It is made up of the parts of the earth where life exists not only human but also plant and animal life. It includes deep forests to grassland from ocean to rain forests from mountains to plains. Scientists have described the place where life exists on earth i.e. Biosphere as a combination of the [lithosphere](), [atmosphere](), and [hydrosphere]().
+It is made up of the parts of the earth where life exists not only human but also plant and animal life. It includes deep forests to grassland from ocean to rain forests from mountains to plains. Scientists have described the place where life exists on earth i.e. Biosphere as a combination of the [lithosphere](https://github.com/princekunal101/academic-section/blob/main/Studies/Environment%20and%20Echology/UNIT%201/lithosphare.md), [atmosphere](https://github.com/princekunal101/academic-section/blob/main/Studies/Environment%20and%20Echology/UNIT%201/atmosphare.md), and [hydrosphere](https://github.com/princekunal101/academic-section/blob/main/Studies/Environment%20and%20Echology/UNIT%201/hydrosphare.md).
 
 #### Lithosphare
 It is the terrestrial component of the Biosphere, which means it contains solid ground masses like Islands and Continents. Its lower mantle and core are the only parts that do not support life and are not, therefore, a part of the biosphere. Everything else supports life by giving it shelter and nourishment, from the smallest germs to the largest beasts and huge trees. 

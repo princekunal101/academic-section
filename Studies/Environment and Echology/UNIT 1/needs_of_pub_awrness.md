@@ -1,4 +1,5 @@
-#### Need for Public Awareness: The objectives of environmental awareness should be: 
+#### Need for Public Awareness: 
+The objectives of environmental awareness should be: 
 
 - Improving the quality of environment.  
 - Creating awareness among people on environmental problems and conservation.  
