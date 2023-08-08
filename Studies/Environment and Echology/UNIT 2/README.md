@@ -98,17 +98,14 @@ effects on the environment.
 **Difference between Renewable and Non-Renewable Resources**
 
 ---
-| Renewable            | Non-Renewable resources|
-| ----- | ------ |
 
+|  Renewable                  |   Non-Renewable resources                |
+| -------- | ----------|
+  It can be renewed as it is available in infinite quantity      |  Once completely consumed, it cannot be  renewed due to limited stock   
+ Sustainable in nature  | Exhaustible in nature       
+ Low cost and environment friendly         | High cost and less environment-friendly 
+ Replenish quickly  | Replenish slowly or do not replenish naturally at all      | 
 
-It can be renewed as it is available in infinite quantity    |   Once completely consumed, it cannot be  renewed due to limited stock 
-
-Sustainable in nature  | Exhaustible in nature 
-
- Low cost and environment friendly   | High cost and less environment-friendly 
-
-  Replenish quickly   | Replenish slowly or do not replenish naturally at all 
 
 ---
 
