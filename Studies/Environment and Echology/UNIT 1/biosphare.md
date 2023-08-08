@@ -27,5 +27,6 @@ The interactions between living things and their environment are connected by th
 - The ecosystem required for survival is provided by the biosphere. The biosphere’s climate is something that living things should be able to adapt to. Ecosystems support biodiversity, and the biosphere provides a dependable source of nutrition for all life on Earth. The term *“biodiversity”* refers to biological variation. 
 - Biosphere reserves are restricted places for the preservation of flora and fauna. Additionally, it contributes in maintaining the traditional way of living of the local tribes. They guard the biodiversity of the area. The greatest level of the ecological structure is the biosphere. It includes each type of species and every biome on the planet. 
 - The biosphere supports life on Earth by contributing to the management of the hydrological (water) cycle, soil health, and composition of the atmosphere. The biosphere is a small area of the earth’s surface where soil, water, and air work together to support life. Only in this region is life possible. 
-
-###### Biopoiesis and biogenesis are processes that drive the evolution of the biosphere. While biogenesis refers to the process of life emerging from living matter, biopoiesis is the process of life emerging from a non-living entity. 
+---
+| Biopoiesis and biogenesis are processes that drive the evolution of the biosphere. While biogenesis refers to the process of life emerging from living matter, biopoiesis is the process of life emerging from a non-living entity. | 
+---
