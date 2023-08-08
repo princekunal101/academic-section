@@ -96,21 +96,22 @@ cause accidents and result in oil spills, nuclear meltdowns,
 pipeline leaks, and even explosions which cause harmful 
 effects on the environment.
 **Difference between Renewable and Non-Renewable Resources**
+
 ---
-| Renewable resource | 
-Non-renewable resource |
-| ------ | ------|
-| It can be renewed as it is 
-available in infinite quantity | 
-Once completely consumed, it cannot be 
-renewed due to limited stock |
-| Sustainable in nature  | Exhaustible in nature |
+| Renewable            | Non-Renewable resources|
+| ----- | ------ |
 
-| Low cost and environment
-friendly | High cost and less environment-friendly |
 
-| Replenish quickly | Replenish slowly or do not replenish 
-naturally at all |
+It can be renewed as it is available in infinite quantity    |   Once completely consumed, it cannot be  renewed due to limited stock 
+
+Sustainable in nature  | Exhaustible in nature 
+
+ Low cost and environment friendly   | High cost and less environment-friendly 
+
+  Replenish quickly   | Replenish slowly or do not replenish naturally at all 
+
+---
+
 
 **The Five Most Important Natural Resources are:** 
 - **Air:** Clean air is important for all the plants, animals and 
@@ -185,7 +186,7 @@ There are five main processes which are essential for nitrogen cycle, viz., Nitr
 
 - **Nitrogen Fixation:** It is the conversion of gaseous nitrogen into ammonia, a form in which it can be used by plants. 
 - **Atmospheric Fixation:** Lightening, combustion and volcanic activities help in the fixation of nitrogen. 
-- **Industrial Fixation:** Under great pressure, at a temperature of 600°C, and with the use of a catalyst, atmospheric nitrogen and hydrogen (usually derived from natural gas or petroleum) can be combined to form ammonia (NH~3~). Ammonia can be used directly as fertilizer, but most of it is further processed to urea and ammonium nitrate (NH~4~NO~3~). 
+- **Industrial Fixation:** Under great pressure, at a temperature of 600°C, and with the use of a catalyst, atmospheric nitrogen and hydrogen (usually derived from natural gas or petroleum) can be combined to form ammonia (NH<sub>3</sub>). Ammonia can be used directly as fertilizer, but most of it is further processed to urea and ammonium nitrate (NH<sub>4</sub>NO<sub>3</sub>). 
 - **Bacterial Fixation:** *There are two types of bacteria which help to fix Nitrogen:* 
 - *(i)* Symbiotic bacteria, e.g., Rhizobium in the root nodules of leguminous plants.
 
@@ -194,8 +195,8 @@ There are five main processes which are essential for nitrogen cycle, viz., Nitr
  ![nitrification]()
  	 
 **Nitrification:** It is a process by which ammonia is converted into nitrates or nitrites by Nitrosomonas and Nitrococcus bacteria respectively. Other soil bacteria Nitro-bacter can covert nitrate into nitrite. 
-- Bacteria of the genus Nitrosomonas oxidize the Ammonia (NH3) to nitrites (NO−2). 
-- Bacteria of the genus Nitrobacter oxidize the nitrites to nitrates (NO−3). 
+- Bacteria of the genus Nitrosomonas oxidize the Ammonia (NH<sub>3</sub>) to nitrites (NO<sup>−2</sup>). 
+- Bacteria of the genus Nitrobacter oxidize the nitrites to nitrates (NO<sup>−3</sup>). 
 These two groups of autotrophic bacteria are called **nitrifying bacteria.** Through their activities (which supply them with all their energy needs), nitrogen is made available to the roots of plants. However, in 2015, two groups reported finding that bacteria in the genus *Nitrospira* were able to carry out both steps: ammonia to nitrite and nitrite to nitrate. This ability is called *"comammox"* (for complete ammonia oxidation).  
 In addition, both soil and the ocean contain **archaeal** microbes, assigned to the Crenarchaeota, that convert ammonia to nitrites. They are more abundant than the nitrifying bacteria and may turn out to play an important role in the nitrogen cycle. 
 Many legumes, in addition to fixing atmospheric nitrogen, also perform nitrification - converting some of their organic nitrogen to nitrites and nitrates. These reach the soil when they shed their leaves. 
@@ -205,140 +206,196 @@ Many legumes, in addition to fixing atmospheric nitrogen, also perform nitrifica
   ![Animal Compounds]()
  
 **Ammonification:** Living organisms produce nitrogenous waste products such as urea and uric acid. These waste products as well as dead remains of organisms are converted back into inorganic ammonia by the bacteria. This process is called ammonification. Ammonifying bacteria help in this process.  
-Under anaerobic conditions in marine and freshwater sediments, other species of bacteria are able to oxidize ammonia (with NO~2~^-) forming nitrogen gas. 
-  
-The anammox reaction may account for as much as 50% of the denitrification occurring in the oceans. All of these processes participate in closing the nitrogen cycle. 
-De-nitrification: The three processes above remove nitrogen from the atmosphere and pass it through ecosystems. De-nitrification reduces nitrates and nitrites to nitrogen gas, thus replenishing the atmosphere. In the process several intermediates are formed: 
-•	nitric oxide (NO) 
-•	nitrous oxide (N2O)(a greenhouse gas 300 times as potent as CO2) 
-•	nitrous acid (HONO) 
-Once again, bacteria are the agents. They live deep in soil and in aquatic sediments where conditions are anaerobic. They use nitrates as an alternative to oxygen for the final electron acceptor in their respiration. 
-Carbon Cycle: Carbon cycle is the process where carbon compounds are interchanged among the biosphere, geosphere, pedosphere, hydrosphere, and atmosphere of the earth. 
+Under anaerobic conditions in marine and freshwater sediments, other species of bacteria are able to oxidize ammonia (with NO<sub>2</sub><sup>-</sup>) forming nitrogen gas. 
+  <p align="center">NH<sub>4</sub>-<sup></sup> + NH<sub>2</sub><sup>-</sup> &rarr; N<sub>2</sub> + 2H<sub>2</sub>O </p>
+The anammox reaction may account for as much as 50% of the denitrification occurring in the oceans. All of these processes participate in closing the nitrogen cycle.
+
+**De-nitrification:** The three processes above remove nitrogen from the atmosphere and pass it through ecosystems. De-nitrification reduces nitrates and nitrites to nitrogen gas, thus replenishing the atmosphere. In the process several intermediates are formed: 
+- nitric oxide (NO) 
+- nitrous oxide (N<sub>2</sub>O)*(a greenhouse gas 300 times as potent as CO<sub>2</sub>)* 
+- nitrous acid (HONO) 
+
+Once again, bacteria are the agents. They live deep in soil and in aquatic sediments where conditions are anaerobic. They use nitrates as an alternative to oxygen for the final electron acceptor in their respiration.
+
+**Carbon Cycle: Carbon cycle is the process where carbon compounds are interchanged among the biosphere, geosphere, pedosphere, hydrosphere, and atmosphere of the earth.**
+
 Carbon cycle is the continuous exchange of carbon between the atmosphere and Earth through different processes such as photosynthesis, respiration, burning of fossil fuels, decomposition, etc. Cycling of carbon between organisms and atmosphere is a consequence of two reciprocal processes of photosynthesis and respiration. 
-  
+
+  ![Carbon cycle]()
  
 Carbon in the atmosphere increases due to burning of fossil fuels, deforestation, forest fires, volcanic eruptions and decomposition of dead organic matters. Some carbon also enters into long term cycle due to accumulation as un-decomposed organic matter or as insoluble carbonates in the aquatic system. It also gets dissolved in the ocean and remains there for a long time. 
-Processes Involved in Carbon Cycle 
+#### Processes Involved in Carbon Cycle 
 There are main processes involved in the carbon cycle:  
-•	Photosynthesis 
-•	Exchange 
-•	Respiration 
-•	Sedimentation 
-•	Combustion  
-•	Extraction 
+- Photosynthesis 
+- Exchange 
+- Respiration 
+- Sedimentation 
+- Combustion  
+- Extraction 
+
+ ![Carbon cycle]()	 
  
- 
- 	 
- 
-Carbon in the atmosphere is present in the form of carbon dioxide. Carbon enters the atmosphere through natural processes such as respiration and industrial applications such as burning fossil fuels. The process of photosynthesis involves the absorption of CO2 by plants to produce carbohydrates. The equation is as follows: 
-CO2 + H2O + energy → (CH2O)n +O2 
+Carbon in the atmosphere is present in the form of carbon dioxide. Carbon enters the atmosphere through natural processes such as respiration and industrial applications such as burning fossil fuels. The process of photosynthesis involves the absorption of CO<sub>2</sub> by plants to produce carbohydrates. The equation is as follows: 
+<p align="center">
+CO<sub>2</sub> + H<sub>2</sub>O + energy &rarr; (CH<sub>2</sub>O)n + O<sub>2</sub> 
+</p>
 Carbon compounds are passed along the food chain from the producers to consumers. The majority of the carbon exists in the body in the form of carbon dioxide through respiration. The role of decomposers is to eat the dead organism and return the carbon from their body back into the atmosphere. The equation for this process is: 
-(CH2O)n +O2 → CO2 + H2O 
-	Carbon moves from the atmosphere to plants. 
-	Carbon moves from plants to animals.  
-	Carbon moves from plants and animals to soils.  
-	Carbon moves from living things to the atmosphere.  
-	Carbon moves from fossil fuels to the atmosphere when fuels are burned.  
-	Carbon moves from the atmosphere to the oceans. 
+<p align="center">(CH<sub>2</sub>O)<sub>n</sub> + O<sub>2</sub> &rarr; CO<sub>2</sub> + H<sub>2</sub>O </p>
+
+- Carbon moves from the atmosphere to plants. 
+- Carbon moves from plants to animals.  
+- Carbon moves from plants and animals to soils.  
+- Carbon moves from living things to the atmosphere.  
+- Carbon moves from fossil fuels to the atmosphere when fuels are burned.  
+- Carbon moves from the atmosphere to the oceans. 
  
-Sulphur Cycle: Sulphur is one of the elements that can be found in the greatest quantities on our planet. It is a non-metal that is yellow in colour, brittle, odourless, and tasteless. Sulphur can be found in many different types of proteins. Methionine, cystine, and cysteine are examples of amino acids that include sulphur that can be directly absorbed by plants. 
-The combustion of fossil fuels, volcanic activity, and the breakdown of organic molecules are all processes that result in the emission of sulphur into the atmosphere. Sulphur is typically found buried deep inside the rocks and minerals of the soil. The weathering of rocks and geothermal vents both contribute to its release into the environment. 
-The following is an explanation of the process known as the sulphur cycle: 
-	The process of rocks being exposed to the elements causes the release of sulphur. 
-	When sulphur comes into contact with air, it undergoes a chemical reaction that transforms it into sulphates. 
-	Plants and microorganisms are responsible for the conversion of sulphates into organic forms after they have taken up the sulphate. 
-	After that, the organic form of sulphur is ingested by the animals through the food that they eat, and this causes sulphur to travel up the food chain. 
-	When the animals pass away, part of the sulphur is released as a byproduct of the decomposition process, and some of it is taken up by the bacteria that consume the dead animals. 
-	Sulphur is released directly into the atmosphere through a number of natural processes, the most well-known of which are volcanic eruptions, the evaporation of water, and the decomposition of organic waste in swamps. This sulphur is brought down to earth by precipitation. 
-Steps of sulphur cycle: The following is an outline of the significant stages of the sulphur cycle:   
-	Decomposition of Organic Compounds : The breakdown of proteins results in the release of amino acids that include sulphur. Desulfotomaculum bacteria are responsible for the reduction of sulphates to hydrogen sulphide (H2S).  
-	Oxidation of Hydrogen Sulphide to Elemental Sulphur: Hydrogen sulphide oxidised to yield elemental sulphur. The first step in the oxidation process is taken by certain photosynthetic bacteria belonging to the families Chlorobiaceae and Chromatiaceae.  
-	Oxidation of elemental sulphur: The plants are unable to immediately make use of the elemental sulphur that is present in the soil. Chemolithotrophic bacteria are responsible for its subsequent transformation into sulphates.  
-	Reduction of sulphates: Desulfovibrio desulfuricans is responsible for the reduction of sulphates to hydrogen sulphide. This is accomplished in two stages: 
-	In the beginning, ATP is utilised in order to convert the sulphates into the sulfites. 
-	Second, the transformation of sulfite into hydrogen sulphide 
+**Sulphur Cycle:** Sulphur is one of the elements that can be found in the greatest quantities on our planet. It is a non-metal that is yellow in colour, brittle, odourless, and tasteless. Sulphur can be found in many different types of proteins. Methionine, cystine, and cysteine are examples of amino acids that include sulphur that can be directly absorbed by plants.
+
+The combustion of fossil fuels, volcanic activity, and the breakdown of organic molecules are all processes that result in the emission of sulphur into the atmosphere. Sulphur is typically found buried deep inside the rocks and minerals of the soil. The weathering of rocks and geothermal vents both contribute to its release into the environment.
+
+*The following is an explanation of the process known as the sulphur cycle:* 
+- The process of rocks being exposed to the elements causes the release of sulphur. 
+- When sulphur comes into contact with air, it undergoes a chemical reaction that transforms it into sulphates. 
+- Plants and microorganisms are responsible for the conversion of sulphates into organic forms after they have taken up the sulphate. 
+- After that, the organic form of sulphur is ingested by the animals through the food that they eat, and this causes sulphur to travel up the food chain. 
+- When the animals pass away, part of the sulphur is released as a byproduct of the decomposition process, and some of it is taken up by the bacteria that consume the dead animals. 
+- Sulphur is released directly into the atmosphere through a number of natural processes, the most well-known of which are volcanic eruptions, the evaporation of water, and the decomposition of organic waste in swamps. This sulphur is brought down to earth by precipitation.
+
+**Steps of sulphur cycle:** The following is an outline of the significant stages of the sulphur cycle:   
+-	**Decomposition of Organic Compounds :** The breakdown of proteins results in the release of amino acids that include sulphur. Desulfotomaculum bacteria are responsible for the reduction of sulphates to hydrogen sulphide (H<sub>2</sub>S).  
+- **Oxidation of Hydrogen Sulphide to Elemental Sulphur:** Hydrogen sulphide oxidised to yield elemental sulphur. The first step in the oxidation process is taken by certain photosynthetic bacteria belonging to the families Chlorobiaceae and Chromatiaceae.  
+- **Oxidation of elemental sulphur:** The plants are unable to immediately make use of the elemental sulphur that is present in the soil. Chemolithotrophic bacteria are responsible for its subsequent transformation into sulphates.  
+- **Reduction of sulphates:** Desulfovibrio desulfuricans is responsible for the reduction of sulphates to hydrogen sulphide. This is accomplished in two stages:
+
+- In the beginning, ATP is utilised in order to convert the sulphates into the sulfites. 
+- Second, the transformation of sulfite into hydrogen sulphide 
 via the reduction process.  
+![Energy Resources]()
   
-Energy Resources 
+#### Energy Resources 
 The natural sources of energy are divided into two categories, 
-1.	Conventional sources of energy 
-2.	Non-conventional sources of energy 
+-	Conventional sources of energy 
+-	Non-conventional sources of energy 
  
-  
-Conventional sources of energy 
-The energy sources that are present for a long time found naturally on or beneath the Earth and take a long time to produce or replenish are known as conventional sources of energy. Generally, these are also non-renewable energy sources. The conventional sources of energy are again divided into two categories, commercial and non-commercial energy sources. 
+ ![Source of enegy]()
+
+#### Conventional sources of energy 
+The energy sources that are present for a long time found naturally on or beneath the Earth and take a long time to produce or replenish are known as conventional sources of energy. Generally, these are also non-renewable energy sources. The conventional sources of energy are again divided into two categories, commercial and non-commercial energy sources.
+
 Commercial energy sources: To get energy from these kinds of sources, we need to pay for it. 
+
 The consumption price depends on various factors like demand and supply, availability, feasibility etc. A few examples are, 
-(a)	Electricity: It is the most common and essential form of energy which we use in our daily life. It runs many home appliances like fridges, bulbs, washing machines etc, also used in commercial buildings and in production units. Electricity is produced by various commercial energy sources in power plants like nuclear power plants, hydroelectric power plants, and thermal power plants. 
+
+- **Electricity:** It is the most common and essential form of energy which we use in our daily life. It runs many home appliances like fridges, bulbs, washing machines etc, also used in commercial buildings and in production units. Electricity is produced by various commercial energy sources in power plants like nuclear power plants, hydroelectric power plants, and thermal power plants. 
+![Power Plant]()
  
-(b)	Coal: It is a type of fossil fuel which is present beneath the surface of the Earth and was formed by decomposed organic materials due to the high compression and temperature due to Earth‘s layers. It takes millions of years to form coal which we use. 
-Therefore it is a non-renewable energy resource. 
-  
+-	**Coal:** It is a type of fossil fuel which is present beneath the surface of the Earth and was formed by decomposed organic materials due to the high compression and temperature due to Earth‘s layers. It takes millions of years to form coal which we use. 
+Therefore it is a non-renewable energy resource.
+
+  ![Coal]()
  
-Natural gas and oil: These are also obtained from fossil fuels and are present beneath the surface of the Earth and formed from decomposed organic materials. They are in such form because of the high compression and temperature of the Earth‘s layers. Natural gas and oil also take a very long time to produce but can be used instantly therefore these are also known as non-renewable energy resources. 
+- **Natural gas and oil:** These are also obtained from fossil fuels and are present beneath the surface of the Earth and formed from decomposed organic materials. They are in such form because of the high compression and temperature of the Earth‘s layers. Natural gas and oil also take a very long time to produce but can be used instantly therefore these are also known as non-renewable energy resources. 
   
+  ![Petrol hand]()
+
 Non-commercial energy sources: The energy resources which are generally available are free to use. Examples are firewoods, cow dung, and straw. Firewoods are obtained from the trees and plants, dung is obtained from animal wastes and straw is obtained from the crop plants like wheat crops, rice crops etc. 
+ ![Fire wood]()
  
- 
-Non-conventional sources of energy 
+#### Non-conventional sources of energy 
 The natural resources that can produce useful energy continuously for a long period of time and are available again and again for use even after it is exhausted are known as non-conventional sources of energy or renewable resources of energy. Some types of nonconventional sources of energy are; sunlight, wind, water flow, and ocean. 
-(a)	Solar energy: The energy produced by the Sun is referred to as solar energy. It is formed due to nuclear fission and fusion inside the Sun. This energy travels in the form of radiation (electromagnetic waves). This energy is collected by some photovoltaic cell panels which absorb the solar energy and convert it into electricity that can be used for home appliances. Solar heating panels are used to heat the water in the solar heater. 
+-	**Solar energy:** The energy produced by the Sun is referred to as solar energy. It is formed due to nuclear fission and fusion inside the Sun. This energy travels in the form of radiation (electromagnetic waves). This energy is collected by some photovoltaic cell panels which absorb the solar energy and convert it into electricity that can be used for home appliances. Solar heating panels are used to heat the water in the solar heater. 
+  ![Solar pannel]()
+
+-	**Wind Energy:** When we talk about wind energy then it means that the wind speed should be high enough to produce a considerable amount of useful work. This kind of wind energy is usually available near the coastal regions or near the mountains where high wind flow is available at a constant rate. Big turbines, called **wind turbines** are installed at such sites to tap this wind energy which drives these turbines and as result, electricity is generated. 
   
-(b)	Wind Energy: When we talk about wind energy then it means that the wind speed should be high enough to produce a considerable amount of useful work. This kind of wind energy is usually available near the coastal regions or near the mountains where high wind flow is available at a constant rate. Big turbines, called wind turbines are installed at such sites to tap this wind energy which drives these turbines and as result, electricity is generated. 
+  ![wind Energy]()
+
+- **Tidal energy:** We know the tides are created in the ocean due to the rotation of the Earth and the attraction between Earth and the moon. Tides are nothing but the rise and fall of the water level in the ocean. We can observe it easily on the shores. The tidal energy is captured by forming narrow dams at the narrow entrances of rivers. During high tides and low tides, the motion of the water column is used to rotate the turbines that produce electricity. 
+
+ ![Tidal Energy]()
+
+- **Biomass energy:** Biomass energy is extracted from biological materials where biological materials are formed from living organisms and plants. In the biomass power plant, biomass is burnt into a combustor in order to produce heat which will be further converted into mechanical energy in order to generate electricity. Biomass can also be converted into other forms of energy like fuels used in transportation, biodiesel or methane gas depending on the requirements. 
+  ![Biomass Energy]()
+
+-	**Geothermal energy:** As we know that the temperature increases as we move inside the Earth's layers. This high temperature is the thermal energy source. Potential sources can be hot springs and volcanoes which contain a very high amount of heat. This kind of energy is known as geothermal energy. This energy can be extracted and can be used to generate electricity. In Himachal Pradesh and Ladakh, geothermal power plants are located. 
+![geothermal Energy]()
   
-(c)	Tidal energy: We know the tides are created in the ocean due to the rotation of the Earth and the attraction between Earth and the moon. Tides are nothing but the rise and fall of the water level in the ocean. We can observe it easily on the shores. The tidal energy is captured by forming narrow dams at the narrow entrances of rivers. During high tides and low tides, the motion of the water column is used to rotate the turbines that produce electricity. 
+-	**Hydro energy:** This energy is generally available in flowing rivers. A dam is formed to store the water of the river at some convenient location. This stored water contains the potential energy which can be converted into kinetic energy by giving a narrow passage to the flow. Thus we get a water stream with high-speed that drives large turbines to produce electricity. 
   
-(d)	Biomass energy: Biomass energy is extracted from biological materials where biological materials are formed from living organisms and plants. In the biomass power plant, biomass is burnt into a combustor in order to produce heat which will be further converted into mechanical energy in order to generate electricity. Biomass can also be converted into other forms of energy like fuels used in transportation, biodiesel or methane gas depending on the requirements. 
-  
-(e)	Geothermal energy: As we know that the temperature increases as we move inside the Earth's layers. This high temperature is the thermal energy source. Potential sources can be hot springs and volcanoes which contain a very high amount of heat. This kind of energy is known as geothermal energy. This energy can be extracted and can be used to generate electricity. In Himachal Pradesh and Ladakh, geothermal power plants are located. 
-  
-(f)	Hydro energy: This energy is generally available in flowing rivers. A dam is formed to store the water of the river at some convenient location. This stored water contains the potential energy which can be converted into kinetic energy by giving a narrow passage to the flow. Thus we get a water stream with high-speed that drives large turbines to produce electricity. 
-  
+ ![Dam Enegry]()
  
- 
-Forest Resources A forest can be defined as a biotic community predominant of trees, shrubs or any other woody vegetation usually in a closed canopy. It is derived from latin word ‗foris‘ means ‗outside‘. India‘s Forest Cover is 6,76,000 sq.km (20.55% of geographic area). Scientists estimate that India should ideally have 33% of its land under forests. Today we only have about 12% thus we need not only to protect our existing forests but also to increase our forest cover. 
-Functions of Forest:  
-	It performs very important function both to human and to nature.  They are habitats to millions of plants, animals and wild life.  
-	They recycle rain water.  
-	They remove pollutant from air.  
-	They control water quality.  
-	They moderate temperature and weather.  
-	They influence soil condition and prevent soil erosion.  
-Uses of Forest  
-	Commercial uses   
-	Ecological uses  
-Commercial uses:  
-	Wood – used as a fuel  
-	Supply wood for various industries – Raw materials as pulp, paper, furniture timber etc.  
-	Minor forest products – gum, dyes, resins  
-	Many plants – Medicines  
-	Supply variety of animal products – honey. Ivory, horns etc.  
-	Many forest lands are used for - Mining, grazing, for dams and recreation.  
-Ecological uses: Forest provides number of environmental services. Production of oxygen: Photosynthesis produces large amount of oxygen which is essential for life. Reducing global warming: Carbon dioxide is one of the main greenhouse gasses. It is absorbed by plants for photosynthesis. Therefore, the problem of global warming caused by CO2 is reduced.  
-Soil conservation: Roots of trees bind the soil tightly and prevent soil erosion. They also act as wind breaks.  
-Regulation of hydrological cycle: Watershed in forest act like giant sponges and slowly release the water for recharge of spring. Pollution moderators: Forest can absorb many toxic gases and noises and help in preventing air and noise pollution.  
-Wild life habitat: Forest is the home of millions of wild animals and plants The Direct Benefits from Forests are:  
-	Fuel Wood: Wood is used as a source of energy for cooking purpose and for keeping warm.  
-	Timber: Wood is used for making furniture, tool-handles, railway sleep-ers, matches, ploughs, bridges, boats etc. 
-	Bamboos: These are used for matting, flooring, baskets, ropes, rafts, cots etc.  
-	Food: Fruits, leaves, roots and tubers of plants and meat of forest animals form the food of forest tribes.  
-	Shelter: Mosses, ferns, insects, birds, reptiles, mammals and micro-organ-isms are provided shelter by forests.  
-	Paper: Wood and Bamboo pulp are used for manufacturing paper (News-print, stationery, packing paper, sanitary paper) 
-	Rayon: Bamboo and wood are used in the manufacture of rayon (yarns, artificial silk-fibres) (h) Forest Products: Tannins, gums, drugs, spices, insecticides, waxes, honey, horns, musk, ivory, hides etc. are all provided by the flora and fauna of forests. 
-The Indirect Benefits from Forests are:  
-	Conservation of Soil: Forests prevent soil erosion by binding the soil with the network of roots of the different plants and reduce the velocity of wind and rain — which are the chief agents causing erosion.  
-	Soil-improvement: The fertility of the soil increases due to the humus which is formed by the decay of forest litter.  
-	Reduction of Atmospheric Pollution: By using up carbon dioxide and giving off oxygen during the process of photosynthesis, forests reduce pollu-tion and purify the environment.  
-	Control of Climate: Transpiration of plants increases the atmospheric humidity which affects rainfall and cools the atmosphere.  
-	Control of Water flow: In the forests, the thick layer of humus acts like a big sponge and soaks rain water preventing runoff, thereby preventing flash-floods. Humus prevents quick evaporation of water, thereby ensuring a perennial supply of water to streams, springs and wells. 
-Deforestation: Deforestation is the permanent removal of trees to make room for something besides forest. This can include clearing the land for agriculture or grazing, or using the timber for fuel, construction or manufacturing. Forests cover more than 30% of the Earth‘s land surface, according to the World Wildlife Fund. 
-Major Causes of Deforestation: 
-	Shifting cultivation:  
-	It is a form of agriculture, in which an area of ground is cleared of vegetation and cultivated for a few years and then abandoned for a new area until its fertility has been naturally restored.  
-	It is harmful for the environment because trees and leaves are burnt and their ash is added to the soil to increase fertility and after certain period of time the land gets abandoned and loses all its fertility and no crops can be grown on it.  
-	In India, we have this practice in north – east and to some extent in Andhra Pradesh, Bihar and M.P which contribute to nearly half of the forest clearing annually. 
-	Mining: Oil and mining of coal require a large amount of forest land. Construction of roads leads to deforestation as they provide the way to remote land. The waste that comes out from mining pollutes the environment and affects the nearby species. 
-	Logging: Illegal logging activities are very common that destroy the livelihoods of the people depending on forests. Wood-based industries like paper, match-sticks, furniture need a substantial amount of wood supply. Wood is used as fuel most commonly and so large amount of trees are cut down for fuel supplies. Firewood and charcoal are used as fuel. 
-	Urbanization:  
-	Massive destruction of forests occurs for various development projects like hydroelectric projects, big dams, road construction, mining etc. 
-	As the population grows, the needs of people increases which further leads to deforestation. Forests shrink to a great extent to meet the requirements like for construction of roads, development of houses, mineral exploitation and expansion of industries. 
+**Forest Resources** A forest can be defined as a biotic community predominant of trees, shrubs or any other woody vegetation usually in a closed canopy. It is derived from *latin* word **'foris'** means *'outside'*. India‘s Forest Cover is 6,76,000 sq.km (20.55% of geographic area). Scientists estimate that India should ideally have 33% of its land under forests. Today we only have about 12% thus we need not only to protect our existing forests but also to increase our forest cover. 
+**Functions of Forest:**
+---  
+- It performs very important function both to human and to nature.  They are habitats to millions of plants, animals and wild life.
+- They recycle rain water.  
+-	They remove pollutant from air.  
+-	They control water quality.  
+-	They moderate temperature and weather.  
+-	They influence soil condition and prevent soil erosion.
+
+**Uses of Forest**  
+-	Commercial uses   
+-	Ecological uses
+
+**Commercial uses:**  
+-	Wood – used as a fuel  
+-	Supply wood for various industries – Raw materials as pulp, paper, furniture timber etc.  
+-	Minor forest products – gum, dyes, resins  
+-	Many plants – Medicines  
+-	Supply variety of animal products – honey. Ivory, horns etc.  
+-	Many forest lands are used for - Mining, grazing, for dams and recreation.
+
+**Ecological uses:** Forest provides number of environmental services. **Production of oxygen:** Photosynthesis produces large amount of oxygen which is essential for life. Reducing global warming: Carbon dioxide is one of the main greenhouse gasses. It is absorbed by plants for photosynthesis. Therefore, the problem of global warming caused by CO2 is reduced.  
+
+**Soil conservation:** Roots of trees bind the soil tightly and prevent soil erosion. They also act as wind breaks.  
+**Regulation of hydrological cycle:** Watershed in forest act like giant sponges and slowly release the water for recharge of spring.
+**Pollution moderators:** Forest can absorb many toxic gases and noises and help in preventing air and noise pollution.
+
+**Wild life habitat:** Forest is the home of millions of wild animals and plants The Direct Benefits from Forests are:
+
+-	**Fuel Wood:** Wood is used as a source of energy for cooking purpose and for keeping warm. 
+
+-	**Timber:** Wood is used for making furniture, tool-handles, railway sleep-ers, matches, ploughs, bridges, boats etc. 
+
+-	**Bamboos:** These are used for matting, flooring, baskets, ropes, rafts, cots etc. 
+
+- **Food:** Fruits, leaves, roots and tubers of plants and meat of forest animals form the food of forest tribes.
+
+-	**Shelter:** Mosses, ferns, insects, birds, reptiles, mammals and micro-organ-isms are provided shelter by forests.
+
+-	**Paper:** Wood and Bamboo pulp are used for manufacturing paper (News-print, stationery, packing paper, sanitary paper)
+
+-	**Rayon:** Bamboo and wood are used in the manufacture of rayon (yarns, artificial silk-fibres) (h) Forest Products: Tannins, gums, drugs, spices, insecticides, waxes, honey, horns, musk, ivory, hides etc. are all provided by the flora and fauna of forests. 
+#### The Indirect Benefits from Forests are:
+
+-	**Conservation of Soil:** Forests prevent soil erosion by binding the soil with the network of roots of the different plants and reduce the velocity of wind and rain — which are the chief agents causing erosion.
+
+-	**Soil-improvement:** The fertility of the soil increases due to the humus which is formed by the decay of forest litter.
+
+-	**Reduction of Atmospheric Pollution:** By using up carbon dioxide and giving off oxygen during the process of photosynthesis, forests reduce pollu-tion and purify the environment.
+
+-	**Control of Climate:** Transpiration of plants increases the atmospheric humidity which affects rainfall and cools the atmosphere.  
+-	**Control of Water flow:** In the forests, the thick layer of humus acts like a big sponge and soaks rain water preventing runoff, thereby preventing flash-floods. Humus prevents quick evaporation of water, thereby ensuring a perennial supply of water to streams, springs and wells.
+
+**Deforestation:** Deforestation is the permanent removal of trees to make room for something besides forest. This can include clearing the land for agriculture or grazing, or using the timber for fuel, construction or manufacturing. Forests cover more than 30% of the Earth‘s land surface, according to the World Wildlife Fund. 
+#### Major Causes of Deforestation:
+
+*Shifting cultivation:*  
+-	It is a form of agriculture, in which an area of ground is cleared of vegetation and cultivated for a few years and then abandoned for a new area until its fertility has been naturally restored.
+
+-	It is harmful for the environment because trees and leaves are burnt and their ash is added to the soil to increase fertility and after certain period of time the land gets abandoned and loses all its fertility and no crops can be grown on it.  
+-	In India, we have this practice in north – east and to some extent in Andhra Pradesh, Bihar and M.P which contribute to nearly half of the forest clearing annually. 
+-	**Mining:** Oil and mining of coal require a large amount of forest land. Construction of roads leads to deforestation as they provide the way to remote land. The waste that comes out from mining pollutes the environment and affects the nearby species. 
+-	**Logging:** Illegal logging activities are very common that destroy the livelihoods of the people depending on forests. Wood-based industries like paper, match-sticks, furniture need a substantial amount of wood supply. Wood is used as fuel most commonly and so large amount of trees are cut down for fuel supplies. Firewood and charcoal are used as fuel. 
+-	**Urbanization:**  
+-	Massive destruction of forests occurs for various development projects like hydroelectric projects, big dams, road construction, mining etc. 
+
+-	As the population grows, the needs of people increases which further leads to deforestation. Forests shrink to a great extent to meet the requirements like for construction of roads, development of houses, mineral exploitation and expansion of industries. 
+
+
+---
+
+| Sub Code      |  Subject Name     | Author  |
+| ---------- | -------- | --------- |
+| BAS 204       | Environment and Ecology |  Amit Kumar Yadav   |      
