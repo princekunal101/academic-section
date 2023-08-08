@@ -16,7 +16,7 @@ The word Environment is derived from the French word **Environ** which means *su
 - Development of non-polluting renewable energy system and providing new dimension to nation’s security. 
  
 
-| **Abiotic**             |  **Biotic**               |
+|  Abiotic                 |   Biotic                 |
 | -------- | ----------|
  Light       | Human beings  
  Temperature  | Animals      
