@@ -15,7 +15,7 @@ The word Environment is derived from the French word **Environ** which means *su
 - Social issues in relation to development and environment.  
 - Development of non-polluting renewable energy system and providing new dimension to nation’s security. 
  
- ---
+
 | **Abiotic**:             |  **Biotic**               |
 | -------- | ----------|
  Light       | Human beings  
@@ -26,7 +26,7 @@ The word Environment is derived from the French word **Environ** which means *su
  | | Bacteria
  | | Fungi
  | | Protozoa 
- ---
+
 
 **Biotic vs Abiotic Factors**
 ---
@@ -34,12 +34,11 @@ The word Environment is derived from the French word **Environ** which means *su
 
 
  [**Types of Environment**](https://github.com/princekunal101/academic-section/blob/main/Studies/Environment%20and%20Echology/UNIT%201/type_of_envnt.md)
- ---
  #### The two types of environment are; 
 - [Natural Environment](https://github.com/princekunal101/academic-section/blob/main/Studies/Environment%20and%20Echology/UNIT%201/type_of_envnt.md)
 - [Man Made Environment](https://github.com/princekunal101/academic-section/blob/main/Studies/Environment%20and%20Echology/UNIT%201/type_of_envnt.md)
 #### Natural Environment
----
+
 The term *'natural environment'* refers to the non-human-made surroundings and conditions in which all living and non-living things exist on Earth. The environment that comes in its existence by its own or naturally without the influence of human being is called as **natural environment.** It operates through self-regulating mechanism that is known as Homeostasis.
 
 #### Man-Made Environment
@@ -107,7 +106,6 @@ to make appropriate judgments and decisions for the protection and improvement o
 - It teaches the citizens the need for sustainable utilization of resources as these resources are inherited from our ancestors to the younger generating without deteriorating their quality.  
 - The study enables theoretical knowledge into practice and the multiple uses of environment. 
  
- ---
- Date: 08/08/2023
- Author: Amitsir
----
+
+| Sub code     | Subject Name   |Auther       |
+| BAS 204    | Environment and Ecology   | Amit Kumar Yadav |
