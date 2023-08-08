@@ -16,7 +16,7 @@ The word Environment is derived from the French word **Environ** which means *su
 - Development of non-polluting renewable energy system and providing new dimension to nation’s security. 
  
 
-| **Abiotic**:             |  **Biotic**               |
+| **Abiotic**             |  **Biotic**               |
 | -------- | ----------|
  Light       | Human beings  
  Temperature  | Animals      
@@ -107,5 +107,7 @@ to make appropriate judgments and decisions for the protection and improvement o
 - The study enables theoretical knowledge into practice and the multiple uses of environment. 
  
 
-| Sub code     | Subject Name   |Auther       |
-| BAS 204    | Environment and Ecology   | Amit Kumar Yadav |
+
+| Sub Code      |  Subject Name     | Author  |
+| ---------- | -------- | --------- |
+| BAS 204       | Environment and Ecology |  Amit Kumar Yadav   |      
