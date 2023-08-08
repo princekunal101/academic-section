@@ -15,32 +15,31 @@ The word Environment is derived from the French word **Environ** which means *su
 - Social issues in relation to development and environment.  
 - Development of non-polluting renewable energy system and providing new dimension to nation’s security. 
  
- 
-**Abiotic**
-- Light  
-- Temperature  
-- Soil  
-- Atmospheric gases  
-- Weather 
+ ---
+| **Abiotic**:             |  **Biotic**               |
+| -------- | ----------|
+ Light       | Human beings  
+ Temperature  | Animals      
+ Soil         | Green & Non-green Plants 
+ Atmospheric gases  | Decomposers    
+ Weather      | Parasites 
+ | | Bacteria
+ | | Fungi
+ | | Protozoa 
+ ---
 
-**Biotic** 
-- Human beings  
-- Animals  
-- Green & Non-green Plants  
-- Decomposers  
-- Parasites  
-- Bacteria  
-- Fungi  
-- Protozoa 
-
+**Biotic vs Abiotic Factors**
+---
 ![Biotic & Abiotic](https://raw.githubusercontent.com/princekunal101/academic-section/main/Studies/Environment%20and%20Echology/figures/biotic_abiotic.jpg)
 
 
  [**Types of Environment**](https://github.com/princekunal101/academic-section/blob/main/Studies/Environment%20and%20Echology/UNIT%201/type_of_envnt.md)
+ ---
  #### The two types of environment are; 
 - [Natural Environment](https://github.com/princekunal101/academic-section/blob/main/Studies/Environment%20and%20Echology/UNIT%201/type_of_envnt.md)
 - [Man Made Environment](https://github.com/princekunal101/academic-section/blob/main/Studies/Environment%20and%20Echology/UNIT%201/type_of_envnt.md)
 #### Natural Environment
+---
 The term *'natural environment'* refers to the non-human-made surroundings and conditions in which all living and non-living things exist on Earth. The environment that comes in its existence by its own or naturally without the influence of human being is called as **natural environment.** It operates through self-regulating mechanism that is known as Homeostasis.
 
 #### Man-Made Environment
@@ -94,6 +93,7 @@ The troposphere is the lowest layer in the atmosphere. It extends upward to abou
 In this segment all the three layers i.e. hydrosphere; lithosphere and atmosphere with all the life forms are included. The life sustaining resources such as air water, food etc. are recycled within the biosphere. 
  
 ### Scope of environmental studies:
+---
   Environmental studies discipline has multiple and multilevel scopes. This study is important and necessary not only for children but also for everyone. The scopes are summarized as follows:  
 - The study creates awareness among the people to know about various renewable and nonrenewable resources of the region.  
 - It provides the knowledge about ecological systems and cause and effect relationships.  
@@ -107,3 +107,7 @@ to make appropriate judgments and decisions for the protection and improvement o
 - It teaches the citizens the need for sustainable utilization of resources as these resources are inherited from our ancestors to the younger generating without deteriorating their quality.  
 - The study enables theoretical knowledge into practice and the multiple uses of environment. 
  
+ ---
+ Date: 08/08/2023
+ Author: Amitsir
+---
