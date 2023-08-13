@@ -196,3 +196,8 @@ Noise pollution can be hazardous to human health in the following ways:
 ## Radioactive Pollution 
 This is considered one of the most dangerous pollution because of its permanent effects. It can cause cancer, infertility due to exposure, congenital disabilities, and blindness. It can permanently change the soil, air, and water. It can even cause mutation in species which can propagate for ages. 
  
+---
+
+| Sub Code      |  Subject Name     | Author  |
+| ---------- | -------- | --------- |
+| BAS 204 /BAS 104      | Environment and Ecology |  Amit Kumar Yadav   |    

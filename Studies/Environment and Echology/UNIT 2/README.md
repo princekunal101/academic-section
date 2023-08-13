@@ -80,7 +80,7 @@ renewable energy when compared to traditional fuel sources:
 These resources are also available in nature but are limited. 
 They may end after continuous usage—for example, oil and 
 natural gas, minerals, coal, etc.
-<p align=center>
+<p align="center">
 
 ![Renewable and Non-Renewable Energy sourses](https://raw.githubusercontent.com/princekunal101/academic-section/main/Studies/Environment%20and%20Echology/figures/renewable-and-nonrenewable-ex.jpg)
 
@@ -402,4 +402,4 @@ The natural resources that can produce useful energy continuously for a long per
 
 | Sub Code      |  Subject Name     | Author  |
 | ---------- | -------- | --------- |
-| BAS 204       | Environment and Ecology |  Amit Kumar Yadav   |      
+| BAS 204 / BAS 104      | Environment and Ecology |  Amit Kumar Yadav   |      

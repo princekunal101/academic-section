@@ -221,4 +221,4 @@ these sites.
 
 | Sub Code      |  Subject Name     | Author  |
 | ---------- | -------- | --------- |
-| BAS 204       | Environment and Ecology |  Amit Kumar Yadav   |      
+| BAS 204 /BAS 104     | Environment and Ecology |  Amit Kumar Yadav   |      
