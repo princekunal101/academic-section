@@ -2,12 +2,14 @@
 
 **“The ozone layer is a region in the earth’s stratosphere that contains high concentrations of ozone and protects the earth from the harmful ultraviolet radiations of the sun.”**
 
-The ozone layer is mainly found in the lower portion of the earth‟s atmosphere. It has the potential to absorb around 97-99% of the harmful ultraviolet radiations coming from the sun that can damage life on earth. If the ozone layer was absent, millions of people would develop skin diseases and may have weakened immune systems. 
- <p align="center">O<sub>2</sub> + ultraviolet light &rarr; O + O *(Free oxygen atoms)* </p>
- <p align="center">
- 2O + 2O<sub>2</sub> &rarr; 2O<sub>3</sub> *(Ozone)* </p>
+The ozone layer is mainly found in the lower portion of the earth‟s atmosphere. It has the potential to absorb around 97-99% of the harmful ultraviolet radiations coming from the sun that can damage life on earth. If the ozone layer was absent, millions of people would develop skin diseases and may have weakened immune systems.
 
-However, scientists have discovered a hole in the ozone layer over Antarctica. This has focused their concern on various environmental issues and steps to control them. The main reasons for the ozone hole are chlorofluorocarbons, carbon tetrachloride, methyl bromide and hydro chlorofluorocarbons. 
+ <p align="center">O<sub>2</sub> + ultraviolet light &rarr; O + O (Free oxygen atoms) </p>
+ <p align="center">
+ 2O + 2O<sub>2</sub> &rarr; 2O<sub>3</sub> (Ozone) </p>
+
+However, scientists have discovered a hole in the ozone layer over Antarctica. This has focused their concern on various environmental issues and steps to control them. The main reasons for the ozone hole are chlorofluorocarbons, carbon tetrachloride, methyl bromide and hydro chlorofluorocarbons.
+
   ![Ozone formatin](https://raw.githubusercontent.com/princekunal101/academic-section/main/Studies/Environment%20and%20Echology/figures/ozone-rec-uv-4.png)
   ![Ozone layer](https://raw.githubusercontent.com/princekunal101/academic-section/main/Studies/Environment%20and%20Echology/figures/defance-with-ozone-4.png) 
 
@@ -80,7 +82,7 @@ Following are the major causes of global warming:
 **Man-made Causes of Global Warming** 
 -	**Deforestation:** Plants are the main source of oxygen. They take in carbon dioxide and release oxygen thereby maintaining environmental balance. Forests are being depleted for many domestic and commercial purposes. This has led to an environmental imbalance, thereby giving rise to global warming. 
 -	**Use of Vehicles:** The use of vehicles, even for a very short distance results in various gaseous emissions. Vehicles burn fossil fuels which emit a large amount of carbon dioxide and other toxins into the atmosphere resulting in a temperature increase. 
-- 	**Chlorofluorocarbon:** With the excessive use of air conditioners and refrigerators, humans have been adding CFCs into the environment which affects the atmospheric ozone layer. The ozone layer protects the earth surface from the harmful ultraviolet rays emitted by the sun. The CFCs have led to ozone layer depletion making way for the ultraviolet rays, thereby increasing the temperature of the earth. 
+- **Chlorofluorocarbon:** With the excessive use of air conditioners and refrigerators, humans have been adding CFCs into the environment which affects the atmospheric ozone layer. The ozone layer protects the earth surface from the harmful ultraviolet rays emitted by the sun. The CFCs have led to ozone layer depletion making way for the ultraviolet rays, thereby increasing the temperature of the earth. 
 -	**Industrial Development:** With the advent of industrialization, the temperature of the earth has been increasing rapidly. The harmful emissions from the factories add to the increasing temperature of the earth. 
 -	In 2013, the Intergovernmental Panel for Climate Change reported that the increase in the global temperature between 1880 and 2012 has been 0.9 degrees Celsius. The increase is 1.1 degrees Celsius when compared to the pre-industrial mean temperature. 
 -	**Agriculture:** Various farming activities produce carbon dioxide and methane gas. These add to the greenhouse gases in the atmosphere and increase the temperature of the earth. 
