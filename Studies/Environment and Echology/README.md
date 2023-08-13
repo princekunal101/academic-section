@@ -4,7 +4,7 @@
 
 [UNIT 2 Natural Resources](https://github.com/princekunal101/academic-section/tree/main/Studies/Environment%20and%20Echology/UNIT%202)
 
-[UNIT 3 ]()
+[UNIT 3 Pollution and their Effects](https://github.com/princekunal101/academic-section/tree/main/Studies/Environment%20and%20Echology/UNIT%203)
 
 [UNIT 4]()
 
