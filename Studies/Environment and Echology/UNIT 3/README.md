@@ -32,13 +32,13 @@ There are two types of air pollutants,
 - Primary Pollutants
 - Secondary Pollutants
 
-#### Primary Pollutents
+### Primary Pollutents
 The pollutants that directly cause air pollution are known as primary pollutants. Sulphur-dioxide emitted from factories is a primary pollutant. 
 
-#### Secondary Pollutants 
+### Secondary Pollutants 
 The pollutants formed by the intermingling and reaction of primary pollutants are known as secondary pollutants. Smog, formed by the intermingling of smoke and fog, is a secondary pollutant. 
 
-#### Causes of Air Pollution 
+### Causes of Air Pollution 
 Following are the important causes of air pollution: 
 -	**Burning of Fossil Fuels:** The combustion of fossil fuels emits a large amount of sulphur dioxide. Carbon monoxide released by incomplete combustion of fossil fuels also results in air pollution.
 
@@ -59,7 +59,7 @@ The hazardous effects of air pollution on the environment include:
 -	**Global Warming:** Due to the emission of greenhouse gases, there is an imbalance in the gaseous composition of the air. This has led to an increase in the temperature of the earth. This increase in earth’s temperature is known as global warming. This has resulted in the melting of glaciers and an increase in sea levels. Many areas are submerged underwater. 
 -	**Acid Rain:** The burning of fossil fuels releases harmful gases such as nitrogen oxides and sulphur oxides in the air. The water droplets combine with these pollutants, become acidic and fall as acid rain which damages human, animal and plant life. 
 -	**Ozone Layer Depletion:** The release of chlorofluorocarbons, halons, and hydro chlorofluorocarbons in the atmosphere is the major cause of depletion of the ozone layer. The depleting ozone layer does not prevent the harmful ultraviolet rays coming from the sun and causes skin diseases and eye problems among individuals. 
-#### The various effects of air pollutants on plants, animals, and humans are as follows: 
+### The various effects of air pollutants on plants, animals, and humans are as follows: 
 **On Plants** 
 -	It causes fruit damage and various leaf diseases like chlorosis, necrosis, and mottled spots on leaves.
 
@@ -81,12 +81,12 @@ The hazardous effects of air pollution on the environment include:
 -	The negative impact of air pollution on animals is more or less similar to that on humans. Chronic poisoning results from the ingestion of forage contaminated with atmospheric pollutants.
 
 -	Among metallic contaminants, arsenic, lead, and molybdenum are harmful to animals. Fluoride is another pollutant, which causes fluorosis among animals. 
- <p align=centre>
+ <p align='centre'>
 
 **Some of the air pollutants, their sources, and effects:** 
 </p>
 
----
+
 
 |  Name of the pollutants    |   Sources                | Health effects    |
 | -------- | ----------| --------- |
@@ -99,15 +99,14 @@ Nitrogen oxides   |  Industries, vehicles and power plants  | Problems in the lu
 |Hydrocarbons |	Burning of fossil fuels | 	Kidney problems, irritation in eyes, nose and throat, asthma, hypertension and carcinogenic effects on lungs. |
 | Chlorofluorocarbons |	Refrigerators, emission from jets 	|Depletion of ozone layer, global warming |
  
----
  
-### Water Pollution
+## Water Pollution
  Water Pollution is defined as any undesirable change in physical, chemical, or biological properties of water that may affect living beings adversely. Due to human activities, ponds, rivers, oceans, and estuaries are getting polluted in several parts of the world. 
-#### Point source
+### Point source
  When contamination originates from a single source, it’s called point source pollution. Examples include wastewater (also called effluent) discharged legally or illegally by a manufacturer, oil refinery, or wastewater treatment facility, as well as contamination from leaking septic systems, chemical and oil spills, and illegal dumping.  
-#### Nonpoint source
+### Nonpoint source
  Nonpoint source pollution is contamination derived from diffuse sources. These may include agricultural or storm water runoff or debris blown into waterways from land.  
-#### Sources of Water Pollution 
+### Sources of Water Pollution 
 The key causative of water pollution in India is: 
 -	Urbanization. 
 -	Deforestation. 
@@ -128,15 +127,16 @@ wrappers and bottles, lead to Water Pollution.
 -	Water-borne diseases: Sewage gives the maximum opportunity for the pathogenic and non-pathogenic microorganisms to grow. These pathogenic (disease-causing) microorganisms are responsible for several water-borne diseases like diarrhoea, typhoid, cholera, dysentery, jaundice, hepatitis, etc.
 
 -	Toxic waste material: Toxic waste material from the industries such as heavy metals, pesticides, cyanides, and many organic and inorganic wastes are released directly into the river, lakes, and ocean, affecting the species present in these aquatic ecosystems, and ultimately affecting human health. 
-### Soil Pollution
+## Soil Pollution
  Soil Pollution is the build-up of persistent toxic compounds, chemicals, salts, radioactive materials, or diseasecausing agents in the soil, which have adverse effects on plant growth and animal health. 
-#### Types of Soil Pollution 
+### Types of Soil Pollution 
 -	Agriculture soil pollution is caused due to the excessive use of pesticides and insecticides. 
 -	Soil Pollution by industrial discharges of chemicals from mining and manufacturing of goods. 
 -	Solid waste soil pollution/ Poor management or inefficient disposal of waste. 
 -	Soil Pollution due to urban activities. Etc 
  
-#### Soil Pollution Causes 
+### Soil Pollution Causes
+
 **Industrial Pollution:** The discharge of industrial waste into soils can result in soil pollution.  In India, as mining and manufacturing activities are increasing rapidly, soil degradation is also increasing. The extraction of minerals from the earth is responsible for affecting soil fertility. Whether it is iron ore or coal, the by-products are contaminated, and they are disposed of in a manner that is not considered safe. As a result, the industrial waste stays on the soil surface for a long duration and makes it unsuitable for further use.
 
 **Agricultural Activities:** The use of insecticides and pesticides for a long period can cause soil pollution. Repetitive use can cause insects and pests to become resistant to it. Instead of killing pests and insects, it degrades the soil quality. They are full of chemicals that are not produced in nature and cannot be broken down by them. As a result, they seep into the ground after they mix with water and slowly reduce the fertility of the soil. Plants absorb many of these pesticides, and after decomposition cause soil pollution.
@@ -171,6 +171,7 @@ Following are the three types of pollution:
 -	Transport Noise 
 -	Neighborhood Noise 
 -	Industrial Noise 
+
  ![Noise Pollutions](https://raw.githubusercontent.com/princekunal101/academic-section/main/Studies/Environment%20and%20Echology/figures/types-of-noise-pollution-3.jpg)
 
 **Transport Noise:** It mainly consists of traffic noise which has increased in recent years with the increase in the number of vehicles. The increase in noise pollution leads to deafening of older people, headache, hypertension, etc. 
