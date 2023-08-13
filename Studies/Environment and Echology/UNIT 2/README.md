@@ -80,7 +80,12 @@ renewable energy when compared to traditional fuel sources:
 These resources are also available in nature but are limited. 
 They may end after continuous usage—for example, oil and 
 natural gas, minerals, coal, etc.
-![Renewable and Non-Renewable Energy sourses]()
+<p align=center>
+
+![Renewable and Non-Renewable Energy sourses](https://raw.githubusercontent.com/princekunal101/academic-section/main/Studies/Environment%20and%20Echology/figures/renewable-and-nonrenewable-ex.jpg)
+
+</p>
+
 #### Advantages of Non-renewable energy 
 - The non-renewable source of energy is affordable. For instance diesel and 
 oil.
@@ -165,7 +170,7 @@ The circulation of water from Earth‘s surface to the atmosphere and back to ea
 -	**Condensation:** When water vapors enter the air, the air cools and the water vapor changes back into liquid droplets, forming clouds. This process of change of water vapor into liquid droplets is called *condensation*. 
 - **Precipitation:** It occurs when the clouds become saturated with water vapor and heavy with water, the water falls back to the Earth in the form of rain, hail, or snow. 
 
-![water cycle]()
+![water cycle](https://raw.githubusercontent.com/princekunal101/academic-section/main/Studies/Environment%20and%20Echology/figures/water-cycle.jpg)
 
 [**Waterborne diseases:**]() 
 Poor water quality becomes inevitable when water gets polluted with industrial waste, human waste, animal waste, garbage, untreated sewage, chemical effluents, etc. Drinking or cooking with such polluted water leads to waterborne diseases and infections such as amoebiasis, giardiasis, and toxoplasmosis.
@@ -179,7 +184,7 @@ Rural populations are more at risk from waterborne illnesses, but everyone faces
 ### Mineral Resources 
 [**Nitrogen cycle:**]() Nitrogen cycle refers to circulation of nitrogen in various chemical forms through the atmospheric, terrestrial and marine ecosystems. Our atmosphere contains nearly 78% of nitrogen, but it cannot be used directly by the majority of living organisms. 
 There are five main processes which are essential for nitrogen cycle, viz., Nitrogen Fixation, Nitrification, Assimilation, Ammonification, and De-nitrification. 
-![Nitogen cycle]()
+![Nitogen cycle](https://raw.githubusercontent.com/princekunal101/academic-section/main/Studies/Environment%20and%20Echology/figures/nitrogen-cycle.jpg)
 
 - **Nitrogen Fixation:** It is the conversion of gaseous nitrogen into ammonia, a form in which it can be used by plants. 
 - **Atmospheric Fixation:** Lightening, combustion and volcanic activities help in the fixation of nitrogen. 
@@ -189,7 +194,7 @@ There are five main processes which are essential for nitrogen cycle, viz., Nitr
 
 - *(ii)* Free living or Non-symbiotic, e.g., Nostoc, Azobacter, and Cyanobacteria can combine atmospheric or dissolved Nitrogen with hydrogen to form ammonia 
  
- ![nitrification]()
+ ![nitrification](https://raw.githubusercontent.com/princekunal101/academic-section/main/Studies/Environment%20and%20Echology/figures/nitrificatin.png)
  	 
 **Nitrification:** It is a process by which ammonia is converted into nitrates or nitrites by Nitrosomonas and Nitrococcus bacteria respectively. Other soil bacteria Nitro-bacter can covert nitrate into nitrite. 
 - Bacteria of the genus Nitrosomonas oxidize the Ammonia (NH<sub>3</sub>) to nitrites (NO<sup>−2</sup>). 
@@ -200,7 +205,7 @@ Many legumes, in addition to fixing atmospheric nitrogen, also perform nitrifica
  
 **Assimilation:** In this process nitrogen fixed by plants is converted into organic molecules such as proteins, DNA, RNA etc. These molecules make the plant and animal tissue.  
  
-  ![Animal Compounds]()
+  ![Animal Compounds](https://raw.githubusercontent.com/princekunal101/academic-section/main/Studies/Environment%20and%20Echology/figures/nitrogen-assimilation.jpg)
  
 **Ammonification:** Living organisms produce nitrogenous waste products such as urea and uric acid. These waste products as well as dead remains of organisms are converted back into inorganic ammonia by the bacteria. This process is called ammonification. Ammonifying bacteria help in this process.  
 Under anaerobic conditions in marine and freshwater sediments, other species of bacteria are able to oxidize ammonia (with NO<sub>2</sub><sup>-</sup>) forming nitrogen gas. 
@@ -218,7 +223,7 @@ Once again, bacteria are the agents. They live deep in soil and in aquatic sedim
 
 Carbon cycle is the continuous exchange of carbon between the atmosphere and Earth through different processes such as photosynthesis, respiration, burning of fossil fuels, decomposition, etc. Cycling of carbon between organisms and atmosphere is a consequence of two reciprocal processes of photosynthesis and respiration. 
 
-  ![Carbon cycle]()
+  ![Carbon cycle](https://raw.githubusercontent.com/princekunal101/academic-section/main/Studies/Environment%20and%20Echology/figures/carbon-cycle.jpg)
  
 Carbon in the atmosphere increases due to burning of fossil fuels, deforestation, forest fires, volcanic eruptions and decomposition of dead organic matters. Some carbon also enters into long term cycle due to accumulation as un-decomposed organic matter or as insoluble carbonates in the aquatic system. It also gets dissolved in the ocean and remains there for a long time. 
 #### Processes Involved in Carbon Cycle 
@@ -230,7 +235,7 @@ There are main processes involved in the carbon cycle:
 - Combustion  
 - Extraction 
 
- ![Carbon cycle]()	 
+ ![Carbon cycle](https://raw.githubusercontent.com/princekunal101/academic-section/main/Studies/Environment%20and%20Echology/figures/carbon-cycle-ii.jpg)	 
  
 Carbon in the atmosphere is present in the form of carbon dioxide. Carbon enters the atmosphere through natural processes such as respiration and industrial applications such as burning fossil fuels. The process of photosynthesis involves the absorption of CO<sub>2</sub> by plants to produce carbohydrates. The equation is as follows: 
 <p align="center">
@@ -267,14 +272,14 @@ The combustion of fossil fuels, volcanic activity, and the breakdown of organic 
 - In the beginning, ATP is utilised in order to convert the sulphates into the sulfites. 
 - Second, the transformation of sulfite into hydrogen sulphide 
 via the reduction process.  
-![Energy Resources]()
+![Energy Resources](https://raw.githubusercontent.com/princekunal101/academic-section/main/Studies/Environment%20and%20Echology/figures/energy-resources.jpg)
   
 #### Energy Resources 
 The natural sources of energy are divided into two categories, 
 -	Conventional sources of energy 
 -	Non-conventional sources of energy 
  
- ![Source of enegy]()
+ ![Source of enegy](https://raw.githubusercontent.com/princekunal101/academic-section/main/Studies/Environment%20and%20Echology/figures/sources-of-energy.jpg)
 
 #### Conventional sources of energy 
 The energy sources that are present for a long time found naturally on or beneath the Earth and take a long time to produce or replenish are known as conventional sources of energy. Generally, these are also non-renewable energy sources. The conventional sources of energy are again divided into two categories, commercial and non-commercial energy sources.
@@ -284,42 +289,44 @@ Commercial energy sources: To get energy from these kinds of sources, we need to
 The consumption price depends on various factors like demand and supply, availability, feasibility etc. A few examples are, 
 
 - **Electricity:** It is the most common and essential form of energy which we use in our daily life. It runs many home appliances like fridges, bulbs, washing machines etc, also used in commercial buildings and in production units. Electricity is produced by various commercial energy sources in power plants like nuclear power plants, hydroelectric power plants, and thermal power plants. 
-![Power Plant]()
+![Power Plant](https://raw.githubusercontent.com/princekunal101/academic-section/main/Studies/Environment%20and%20Echology/figures/electrycity-resources.jpg)
  
 -	**Coal:** It is a type of fossil fuel which is present beneath the surface of the Earth and was formed by decomposed organic materials due to the high compression and temperature due to Earth‘s layers. It takes millions of years to form coal which we use. 
 Therefore it is a non-renewable energy resource.
 
-  ![Coal]()
+  ![Coal](https://raw.githubusercontent.com/princekunal101/academic-section/main/Studies/Environment%20and%20Echology/figures/coal-resources.jpg)
  
 - **Natural gas and oil:** These are also obtained from fossil fuels and are present beneath the surface of the Earth and formed from decomposed organic materials. They are in such form because of the high compression and temperature of the Earth‘s layers. Natural gas and oil also take a very long time to produce but can be used instantly therefore these are also known as non-renewable energy resources. 
   
-  ![Petrol hand]()
+  ![Petrol hand](https://raw.githubusercontent.com/princekunal101/academic-section/main/Studies/Environment%20and%20Echology/figures/petrol-natural-resources.jpg)
 
 Non-commercial energy sources: The energy resources which are generally available are free to use. Examples are firewoods, cow dung, and straw. Firewoods are obtained from the trees and plants, dung is obtained from animal wastes and straw is obtained from the crop plants like wheat crops, rice crops etc. 
- ![Fire wood]()
+ ![Fire wood](https://raw.githubusercontent.com/princekunal101/academic-section/main/Studies/Environment%20and%20Echology/figures/fossel-fuel-resources.jpg)
+ ![Cow Dugs](https://raw.githubusercontent.com/princekunal101/academic-section/main/Studies/Environment%20and%20Echology/figures/fossel-fuel-ii-resources.jpg)
  
 #### Non-conventional sources of energy 
 The natural resources that can produce useful energy continuously for a long period of time and are available again and again for use even after it is exhausted are known as non-conventional sources of energy or renewable resources of energy. Some types of nonconventional sources of energy are; sunlight, wind, water flow, and ocean. 
--	**Solar energy:** The energy produced by the Sun is referred to as solar energy. It is formed due to nuclear fission and fusion inside the Sun. This energy travels in the form of radiation (electromagnetic waves). This energy is collected by some photovoltaic cell panels which absorb the solar energy and convert it into electricity that can be used for home appliances. Solar heating panels are used to heat the water in the solar heater. 
-  ![Solar pannel]()
+-	**Solar energy:** The energy produced by the Sun is referred to as solar energy. It is formed due to nuclear fission and fusion inside the Sun. This energy travels in the form of radiation (electromagnetic waves). This energy is collected by some photovoltaic cell panels which absorb the solar energy and convert it into electricity that can be used for home appliances. Solar heating panels are used to heat the water in the solar heater.
+
+  ![Solar pannel](https://raw.githubusercontent.com/princekunal101/academic-section/main/Studies/Environment%20and%20Echology/figures/solar-energy.jpg)
 
 -	**Wind Energy:** When we talk about wind energy then it means that the wind speed should be high enough to produce a considerable amount of useful work. This kind of wind energy is usually available near the coastal regions or near the mountains where high wind flow is available at a constant rate. Big turbines, called **wind turbines** are installed at such sites to tap this wind energy which drives these turbines and as result, electricity is generated. 
   
-  ![wind Energy]()
+  ![wind Energy](https://raw.githubusercontent.com/princekunal101/academic-section/main/Studies/Environment%20and%20Echology/figures/wind-energy.jpg)
 
 - **Tidal energy:** We know the tides are created in the ocean due to the rotation of the Earth and the attraction between Earth and the moon. Tides are nothing but the rise and fall of the water level in the ocean. We can observe it easily on the shores. The tidal energy is captured by forming narrow dams at the narrow entrances of rivers. During high tides and low tides, the motion of the water column is used to rotate the turbines that produce electricity. 
 
- ![Tidal Energy]()
+ ![Tidal Energy](https://raw.githubusercontent.com/princekunal101/academic-section/main/Studies/Environment%20and%20Echology/figures/tidal-energy.jpg)
 
 - **Biomass energy:** Biomass energy is extracted from biological materials where biological materials are formed from living organisms and plants. In the biomass power plant, biomass is burnt into a combustor in order to produce heat which will be further converted into mechanical energy in order to generate electricity. Biomass can also be converted into other forms of energy like fuels used in transportation, biodiesel or methane gas depending on the requirements. 
-  ![Biomass Energy]()
+  ![Biomass Energy](https://raw.githubusercontent.com/princekunal101/academic-section/main/Studies/Environment%20and%20Echology/figures/biomass-energy.jpg)
 
 -	**Geothermal energy:** As we know that the temperature increases as we move inside the Earth's layers. This high temperature is the thermal energy source. Potential sources can be hot springs and volcanoes which contain a very high amount of heat. This kind of energy is known as geothermal energy. This energy can be extracted and can be used to generate electricity. In Himachal Pradesh and Ladakh, geothermal power plants are located. 
-![geothermal Energy]()
+![geothermal Energy](https://raw.githubusercontent.com/princekunal101/academic-section/main/Studies/Environment%20and%20Echology/figures/geothermal-energy.jpg)
   
 -	**Hydro energy:** This energy is generally available in flowing rivers. A dam is formed to store the water of the river at some convenient location. This stored water contains the potential energy which can be converted into kinetic energy by giving a narrow passage to the flow. Thus we get a water stream with high-speed that drives large turbines to produce electricity. 
   
- ![Dam Enegry]()
+ ![Dam Enegry](https://raw.githubusercontent.com/princekunal101/academic-section/main/Studies/Environment%20and%20Echology/figures/hydro-energy.jpg)
  
 **Forest Resources** A forest can be defined as a biotic community predominant of trees, shrubs or any other woody vegetation usually in a closed canopy. It is derived from *latin* word **'foris'** means *'outside'*. India‘s Forest Cover is 6,76,000 sq.km (20.55% of geographic area). Scientists estimate that India should ideally have 33% of its land under forests. Today we only have about 12% thus we need not only to protect our existing forests but also to increase our forest cover. 
 **Functions of Forest:**
