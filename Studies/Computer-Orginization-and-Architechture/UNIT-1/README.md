@@ -18,11 +18,11 @@
 
 | Computer Architecture | Computer Organizations |
 | --------------------- | ---------------------- |
-| It is concerned with the way hardware components are connected to form a computer system.| It is concerned with the way architecture is implemented in terms of structure & behaviour if a computer systm as seen by the user. |
-| It helps us to understand the functionalities of a system. | It provide the details of the how exactly all the functional units in the s/m are arranged & inter connected. |
-| A programmer can view s/m architecture in terms of Instruction format addressing modes. | It is the actual implementation of the system Architecture to achieve specified s/m Performance. |
-| It is the first step while designing and building a computer. | An Organisation is defined & done based on the system architecture. |
-| It deals with the high level design issues & specifications. | It basically deals with the low level system desifn issues. |
+| It is concerned with the way hardware components are connected to form a computer System.| It is concerned with the way architecture is implemented in terms of structure & behaviour if a computer systm as seen by the user. |
+| It helps us to understand the functionalities of a System. | It provide the details of the how exactly all the functional units in the System are arranged & inter connected. |
+| A programmer can view System architecture in terms of Instruction format addressing modes. | It is the actual implementation of the System Architecture to achieve specified System Performance. |
+| It is the first step while designing and building a computer. | An Organisation is defined & done based on the System architecture. |
+| It deals with the high level design issues & specifications. | It basically deals with the low level System desifn issues. |
 | Architecutre involves logic (ISA Instruction sets, addressing modes data type, cache memory organization) | Organisation involves pthysical harware components such as circuit design, adderess, signals and Peripherals. |
 
 ![Computer Architecture diagram]()
@@ -34,10 +34,10 @@
 
 | Objective | CA (Computer Architecture) | CO (Computer Organiztion) |
 | -------- | -------------------------- | -----------------------|
-| Focus | It is connected with the design principal & connected structure of a computer system. It encompassing both hardware & s/w aspwcts to achive the desired level of s/m Performance. | It is Primarily conerned itself with the physical aspects of a computer s\m & how the hardware components are interconnected & operate togather. |
-| Level of Details | It deals with the heigher level of abstraction. It focuses on the organization & behavior of the s/m in terms of s/m performance. | It deals with the low-level details computer s/m, such as design & organisation of individual hardware components circuits & logic gates. |
+| Focus | It is connected with the design principal & connected structure of a computer System. It encompassing both hardware & s/w aspwcts to achive the desired level of System Performance. | It is Primarily conerned itself with the physical aspects of a computer s\m & how the hardware components are interconnected & operate togather. |
+| Level of Details | It deals with the heigher level of abstraction. It focuses on the organization & behavior of the System in terms of System performance. | It deals with the low-level details computer System, such as design & organisation of individual hardware components circuits & logic gates. |
 |Performance Evelutions | It involves evaluating & comparing difference architecural design based on performance matrics like expection time, througput & energy efficiency. | It aims to optimize the performance of the compute s\m by considering factor, like clock speed, latency, bandwidth & hardware-level. |
-| Examples | It includes instruction set design pipelining, memory hierarchy, parallel processing, virtual memory & overall s/m performance. | It includes CPU design m\m system, chase hierarchies, bus protocols & Input/Output Subsystems. |
+| Examples | It includes instruction set design pipelining, memory hierarchy, parallel processing, virtual memory & overall System performance. | It includes CPU design m\m System, chase hierarchies, bus protocols & Input/Output SubSystems. |
 ## Functional units of Digital System-
 A computer consists of four main components namely.
 
@@ -45,17 +45,17 @@ A computer consists of four main components namely.
 #### Input Unit
 It consists of input devices that allows you to enter data into your computer. Some of the comman Input devices are Keyboard, mouse etc.
 #### Central Processing unit
-It  is known as the brain of computer s/m once the information is entered into the computer by the input device the CPU Processes it. It consists of two parts.
+It  is known as the brain of computer System once the information is entered into the computer by the input device the CPU Processes it. It consists of two parts.
 #### Aritmetic & Logic Unit (ALU)
 It Performs arithmatic & logical operations, such as additon, substraction, multipicaton, division.
 #### Control Unit (CU)
-It conrol all the activies and operations of the computer system.
+It conrol all the activies and operations of the computer System.
 #### Output Unit
 It consistd of Output devices that are used to display the results of the output of processing.
 ## Buses
 - A bus is a collection of wires that conect several devices.
 - It is used to send control signals & data between the processor & other components.
-- A bus is used to communicate between the mazor components of a computer is called **system bus.** 
+- A bus is used to communicate between the mazor components of a computer is called **System bus.** 
 #### Types of Buses
 1. Address Bus
 2. Data Bus
