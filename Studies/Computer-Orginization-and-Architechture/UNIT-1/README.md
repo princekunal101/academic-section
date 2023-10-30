@@ -24,6 +24,7 @@
 | It is the first step while designing and building a computer. | An Organisation is defined & done based on the system architecture. |
 | It deals with the high level design issues & specifications. | It basically deals with the low level system desifn issues. |
 | Architecutre involves logic (ISA Instruction sets, addressing modes data type, cache memory organization) | Organisation involves pthysical harware components such as circuit design, adderess, signals and Peripherals. |
+
 ![Computer Architecture diagram]()
  #### Instruction Cycle 
 1. Fetch 
@@ -31,7 +32,7 @@
 3. Execute 
 4. Store
 
-| Objectiv | CA (Computer Architecture) | CO (Computer Organiztion) |
+| Objective | CA (Computer Architecture) | CO (Computer Organiztion) |
 | -------- | -------------------------- | -----------------------|
 | Focus | It is connected with the design principal & connected structure of a computer system. It encompassing both hardware & s/w aspwcts to achive the desired level of s/m Performance. | It is Primarily conerned itself with the physical aspects of a computer s\m & how the hardware components are interconnected & operate togather. |
 | Level of Details | It deals with the heigher level of abstraction. It focuses on the organization & behavior of the s/m in terms of s/m performance. | It deals with the low-level details computer s/m, such as design & organisation of individual hardware components circuits & logic gates. |
@@ -39,6 +40,7 @@
 | Examples | It includes instruction set design pipelining, memory hierarchy, parallel processing, virtual memory & overall s/m performance. | It includes CPU design m\m system, chase hierarchies, bus protocols & Input/Output Subsystems. |
 ## Functional units of Digital System-
 A computer consists of four main components namely.
+
 ![Funcitional Block Diagram]()
 #### Input Unit
 It consists of input devices that allows you to enter data into your computer. Some of the comman Input devices are Keyboard, mouse etc.
