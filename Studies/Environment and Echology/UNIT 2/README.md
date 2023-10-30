@@ -133,7 +133,7 @@ projects
 ## Water Resources 
  
 ### Water Availability  
-The meaning of [*availability*]() is the quantity of something that can be used. Water availability is the quantity of water that can be useful to human beings without causing any harm to the ecosystem or other living creatures. According to the statistics, almost 97% of the earth's water is saline, and among the available 3%, aquifers are considered economically useful water resources for human beings.
+The meaning of [*availability*]() is the quantity of something that can be used. Water availability is the quantity of water that can be useful to human beings without causing any harm to the ecoSystem or other living creatures. According to the statistics, almost 97% of the earth's water is saline, and among the available 3%, aquifers are considered economically useful water resources for human beings.
 
 Water availability, both surface water and groundwater, is crucial for various fields like agriculture, industry, energy generation and most importantly, human consumption. Climate, local geological conditions, use of land, quality of water everything will affect the water availability. 
 ### Availability of Water on Earth 
@@ -158,7 +158,7 @@ Due to gravity, the water continues to flow downhill through the earth. Finally,
 
 The most common way for humans to get groundwater is through wells. Drilling past the water table is required to construct a well. In most situations, a pump is installed in the well‘s bottom, and the water is pushed into houses, businesses, and water treatment facilities, where it will be distributed. A cone of depression grows around the well when water is pumped from the earth. The well is fed by groundwater from the wider region. Droughts can cause wells to dry out, or if nearby wells are pumping quite so much water, generating a massive cone of depression. 
 
-Water pumped from wells is usually of excellent quality. The dirt, clay, and rock layers operate as a natural filter. Contaminants from adjacent polluted soils, leaking underground tanks, and septic systems, on the other hand, can pollute a well and leave it useless. Furthermore, saltwater intrusion might occur when the frequency of pumping near a shoreline outpaces the recharge. Saltwater is drawn from the sea into the depression cone and the well. 
+Water pumped from wells is usually of excellent quality. The dirt, clay, and rock layers operate as a natural filter. Contaminants from adjacent polluted soils, leaking underground tanks, and septic Systems, on the other hand, can pollute a well and leave it useless. Furthermore, saltwater intrusion might occur when the frequency of pumping near a shoreline outpaces the recharge. Saltwater is drawn from the sea into the depression cone and the well. 
 #### Surface Water Resources 
 Surface water comes from four major sources. Rivers, lakes, ponds, and tanks are examples. There are around 10,360 rivers in the country and its tributaries that are more than 1.6 kilometres long. The annual average flow in all river basins is estimated to be 1,869 cubic kilometers in India.  Only roughly 690 cubic kilometres (32%) of the available surface water can be used due to topographical, hydrological, and other limits. The size of a river‘s catchment area or river basin, as well as rainfall within that area, determines how much water flows through it. 
 #### Saltwater Resources 
@@ -182,7 +182,7 @@ Unclean water for washing can cause skin and infectious eye disease such as Trac
 Rural populations are more at risk from waterborne illnesses, but everyone faces risks of polluted or contaminated water. Waterborne illness can affect anyone, anywhere. The risk is more for infants, younger children, the elderly and patients of diabetes, chronic diseases of heart disease, kidney, etc. 
  
 ### Mineral Resources 
-[**Nitrogen cycle:**]() Nitrogen cycle refers to circulation of nitrogen in various chemical forms through the atmospheric, terrestrial and marine ecosystems. Our atmosphere contains nearly 78% of nitrogen, but it cannot be used directly by the majority of living organisms. 
+[**Nitrogen cycle:**]() Nitrogen cycle refers to circulation of nitrogen in various chemical forms through the atmospheric, terrestrial and marine ecoSystems. Our atmosphere contains nearly 78% of nitrogen, but it cannot be used directly by the majority of living organisms. 
 There are five main processes which are essential for nitrogen cycle, viz., Nitrogen Fixation, Nitrification, Assimilation, Ammonification, and De-nitrification. 
 ![Nitogen cycle](https://raw.githubusercontent.com/princekunal101/academic-section/main/Studies/Environment%20and%20Echology/figures/nitrogen-cycle.jpg)
 
@@ -212,7 +212,7 @@ Under anaerobic conditions in marine and freshwater sediments, other species of 
   <p align="center">NH<sub>4</sub>-<sup></sup> + NH<sub>2</sub><sup>-</sup> &rarr; N<sub>2</sub> + 2H<sub>2</sub>O </p>
 The anammox reaction may account for as much as 50% of the denitrification occurring in the oceans. All of these processes participate in closing the nitrogen cycle.
 
-**De-nitrification:** The three processes above remove nitrogen from the atmosphere and pass it through ecosystems. De-nitrification reduces nitrates and nitrites to nitrogen gas, thus replenishing the atmosphere. In the process several intermediates are formed: 
+**De-nitrification:** The three processes above remove nitrogen from the atmosphere and pass it through ecoSystems. De-nitrification reduces nitrates and nitrites to nitrogen gas, thus replenishing the atmosphere. In the process several intermediates are formed: 
 - nitric oxide (NO) 
 - nitrous oxide (N<sub>2</sub>O)*(a greenhouse gas 300 times as potent as CO<sub>2</sub>)* 
 - nitrous acid (HONO) 
@@ -225,7 +225,7 @@ Carbon cycle is the continuous exchange of carbon between the atmosphere and Ear
 
   ![Carbon cycle](https://raw.githubusercontent.com/princekunal101/academic-section/main/Studies/Environment%20and%20Echology/figures/carbon-cycle.jpg)
  
-Carbon in the atmosphere increases due to burning of fossil fuels, deforestation, forest fires, volcanic eruptions and decomposition of dead organic matters. Some carbon also enters into long term cycle due to accumulation as un-decomposed organic matter or as insoluble carbonates in the aquatic system. It also gets dissolved in the ocean and remains there for a long time. 
+Carbon in the atmosphere increases due to burning of fossil fuels, deforestation, forest fires, volcanic eruptions and decomposition of dead organic matters. Some carbon also enters into long term cycle due to accumulation as un-decomposed organic matter or as insoluble carbonates in the aquatic System. It also gets dissolved in the ocean and remains there for a long time. 
 #### Processes Involved in Carbon Cycle 
 There are main processes involved in the carbon cycle:  
 - Photosynthesis 

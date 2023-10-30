@@ -74,7 +74,7 @@ The hazardous effects of air pollution on the environment include:
 -	Causes an increase in susceptibility to diseases. 
 -	Causes cancer and genetic mutations. 
 -	Causes respiratory ailments like asthma, hay fever, and other allergic diseases. 
--	Causes cardiovascular diseases and damage to the central nervous system, resulting in premature death. 
+-	Causes cardiovascular diseases and damage to the central nervous System, resulting in premature death. 
 -	Causes immediate effects like inflammation, nausea, headache, and irritation to the eyes and nose.
 
 **On Animals** 
@@ -90,7 +90,7 @@ The hazardous effects of air pollution on the environment include:
 
 |  Name of the pollutants    |   Sources                | Health effects    |
 | -------- | ----------| --------- |
-Nitrogen oxides   |  Industries, vehicles and power plants  | Problems in the lungs, respiratory systems and causes asthma and bronchitis. |
+Nitrogen oxides   |  Industries, vehicles and power plants  | Problems in the lungs, respiratory Systems and causes asthma and bronchitis. |
 | Carbon monoxide | Emission and burning of fossil fuels | Severe headache, irritation to mucous membrane, unconsciousness and death.  |
 | Carbon dioxide | 	Burning of fossil fuels |	Vision problem, severe headache and heart strain. |
 | Suspended particulate matter |	Vehicular emission and burning of fossil fuels. | 	Lung irritation reduces development of RBC and pulmonary malfunctioning. |
@@ -103,7 +103,7 @@ Nitrogen oxides   |  Industries, vehicles and power plants  | Problems in the lu
 ## Water Pollution
  Water Pollution is defined as any undesirable change in physical, chemical, or biological properties of water that may affect living beings adversely. Due to human activities, ponds, rivers, oceans, and estuaries are getting polluted in several parts of the world. 
 ### Point source
- When contamination originates from a single source, it’s called point source pollution. Examples include wastewater (also called effluent) discharged legally or illegally by a manufacturer, oil refinery, or wastewater treatment facility, as well as contamination from leaking septic systems, chemical and oil spills, and illegal dumping.  
+ When contamination originates from a single source, it’s called point source pollution. Examples include wastewater (also called effluent) discharged legally or illegally by a manufacturer, oil refinery, or wastewater treatment facility, as well as contamination from leaking septic Systems, chemical and oil spills, and illegal dumping.  
 ### Nonpoint source
  Nonpoint source pollution is contamination derived from diffuse sources. These may include agricultural or storm water runoff or debris blown into waterways from land.  
 ### Sources of Water Pollution 
@@ -123,10 +123,10 @@ wrappers and bottles, lead to Water Pollution.
 
  ![Water pollutions](https://raw.githubusercontent.com/princekunal101/academic-section/main/Studies/Environment%20and%20Echology/figures/water-pollution.jpg)
 
-**Effects of Water Pollution:** Water Pollution affects both animals and plants and leads to an adverse impact on the aquatic ecosystem. The major effects of Water Pollution are as follows: 
+**Effects of Water Pollution:** Water Pollution affects both animals and plants and leads to an adverse impact on the aquatic ecoSystem. The major effects of Water Pollution are as follows: 
 -	Water-borne diseases: Sewage gives the maximum opportunity for the pathogenic and non-pathogenic microorganisms to grow. These pathogenic (disease-causing) microorganisms are responsible for several water-borne diseases like diarrhoea, typhoid, cholera, dysentery, jaundice, hepatitis, etc.
 
--	Toxic waste material: Toxic waste material from the industries such as heavy metals, pesticides, cyanides, and many organic and inorganic wastes are released directly into the river, lakes, and ocean, affecting the species present in these aquatic ecosystems, and ultimately affecting human health. 
+-	Toxic waste material: Toxic waste material from the industries such as heavy metals, pesticides, cyanides, and many organic and inorganic wastes are released directly into the river, lakes, and ocean, affecting the species present in these aquatic ecoSystems, and ultimately affecting human health. 
 ## Soil Pollution
  Soil Pollution is the build-up of persistent toxic compounds, chemicals, salts, radioactive materials, or diseasecausing agents in the soil, which have adverse effects on plant growth and animal health. 
 ### Types of Soil Pollution 
@@ -162,7 +162,7 @@ Long-term consumption of these crops may cause chronic diseases that are untreat
 
 **Effects of Soil Pollution on Human Health:** The contamination of soil has a major consequence on human health. Crops and plants that are grown on polluted soil absorb most of the pollution and then pass them to humans. Living, working, or playing in contaminated soil can lead to respiratory diseases, skin diseases, and other health problems. Diseases caused by soil pollution include Irritation of the skin and the eyes, Headaches, nausea, vomiting, coughing, pain in the chest, and wheezing.  
 **Effects on Plants:** In such a short period of time, plants are unable to adapt to the soil change chemistry. Fungi and bacteria found in the soil that bind them together start to decline, which creates an additional problem in soil erosion. Regular use of chemical fertilizers, inorganic fertilizers, pesticides will decrease the fertility of the soil and alter the structure of soil. This will lead to a decrease in soil quality and poor quality of crops. The fertility of the soil diminishes slowly, making land unsuitable for agriculture and any local vegetation to survive.  
-**Effects on the Ecosystem:** The soil is an important habitat for different types of microorganisms, birds, and insects. Thus, change in the chemistry of soil can negatively impact the lives of living organisms and can result in the gradual death of many organisms.   
+**Effects on the EcoSystem:** The soil is an important habitat for different types of microorganisms, birds, and insects. Thus, change in the chemistry of soil can negatively impact the lives of living organisms and can result in the gradual death of many organisms.   
   
 ## Noise Pollution
 The unpleasant, discomfort-causing sound from any source is called noise. The sustained presence of harmful, unwanted, or annoying noise in the environment is called noise pollution. Any object that produces noise is a potential source of noise pollution. Examples are television and radio (when played at a loud volume), air coolers, automobiles, blaring loudspeakers, and air conditioners. 

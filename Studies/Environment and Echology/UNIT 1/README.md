@@ -13,7 +13,7 @@ The word Environment is derived from the French word **Environ** which means *su
 - Control of environmental pollution.  
 - Stabilization of human population and environment. 
 - Social issues in relation to development and environment.  
-- Development of non-polluting renewable energy system and providing new dimension to nation’s security. 
+- Development of non-polluting renewable energy System and providing new dimension to nation’s security. 
  
 
 |  Abiotic                 |   Biotic                 |
@@ -104,7 +104,7 @@ Thermosphere lies above the mesosphere and this is a region where the temperatur
 Exosphere is the final frontier of the Earth’s gaseous envelope. The air in the exosphere is constantly but gradually leaking out of the Earth’s atmosphere into outer space. There is no clear cut upper boundary where the exosphere finally fades away into space.  
 
 - [Biosphere](https://github.com/princekunal101/academic-section/blob/main/Studies/Environment%20and%20Echology/UNIT%201/biosphare.md) 
- The biosphere is made up of the parts of Earth where life exists—all ecosystems. The biosphere extends from the deepest root systems of trees, to the dark environments of ocean trenches, to lush rain forests, high mountaintops, and transition zones like this one, where ocean and terrestrial ecosystems meet. The biosphere supports all life on Earth, 3 to 30 million species of plants, animals, fungi, single-celled prokaryotes such as bacteria, and single-celled eukaryotes such as protozoans. 
+ The biosphere is made up of the parts of Earth where life exists—all ecoSystems. The biosphere extends from the deepest root Systems of trees, to the dark environments of ocean trenches, to lush rain forests, high mountaintops, and transition zones like this one, where ocean and terrestrial ecoSystems meet. The biosphere supports all life on Earth, 3 to 30 million species of plants, animals, fungi, single-celled prokaryotes such as bacteria, and single-celled eukaryotes such as protozoans. 
  ![Biosphare](https://raw.githubusercontent.com/princekunal101/academic-section/main/Studies/Environment%20and%20Echology/figures/biosphere.jpg)
 
  *The biosphere, or “zone of life,” an energy-diverting layer that uses the matter of Earth to create living substance, was created by this development of life in the thin outer layer of the geosphere*
@@ -125,12 +125,12 @@ All of the Earth’s waters are referred to as the hydrosphere. Consequently, it
 
 #### Biosphare Resources
 Important resources are provided by the biosphere. Many people depend on the biosphere for essentials including food, medicine, building supplies, and fuel.  All food comes from the biosphere, with the exception of salt, yet developed societies choose farming over scavenging. 
-The biosphere, which extends from a few kilometers into the sky to deep-sea vents, is a relatively small layer of the Earth’s surface that sustains life. The biosphere is a large-scale ecosystem made up of living things (biotic) and the non-living (abiotic) elements that sustain them. 
+The biosphere, which extends from a few kilometers into the sky to deep-sea vents, is a relatively small layer of the Earth’s surface that sustains life. The biosphere is a large-scale ecoSystem made up of living things (biotic) and the non-living (abiotic) elements that sustain them. 
 
 #### Importance of the Biosphare
 
 The interactions between living things and their environment are connected by the biosphere. The lives of living things can be greatly affected by a small alteration in the environment. The biosphere is crucial for all life because of this relationship, though. Following is a list of some of them: 
-- The ecosystem required for survival is provided by the biosphere. The biosphere’s climate is something that living things should be able to adapt to. Ecosystems support biodiversity, and the biosphere provides a dependable source of nutrition for all life on Earth. The term *“biodiversity”* refers to biological variation. 
+- The ecoSystem required for survival is provided by the biosphere. The biosphere’s climate is something that living things should be able to adapt to. EcoSystems support biodiversity, and the biosphere provides a dependable source of nutrition for all life on Earth. The term *“biodiversity”* refers to biological variation. 
 - Biosphere reserves are restricted places for the preservation of flora and fauna. Additionally, it contributes in maintaining the traditional way of living of the local tribes. They guard the biodiversity of the area. The greatest level of the ecological structure is the biosphere. It includes each type of species and every biome on the planet. 
 - The biosphere supports life on Earth by contributing to the management of the hydrological (water) cycle, soil health, and composition of the atmosphere. The biosphere is a small area of the earth’s surface where soil, water, and air work together to support life. Only in this region is life possible. 
 ---
@@ -171,7 +171,7 @@ In this segment all the three layers i.e. hydrosphere; lithosphere and atmospher
 ---
   Environmental studies discipline has multiple and multilevel scopes. This study is important and necessary not only for children but also for everyone. The scopes are summarized as follows:  
 - The study creates awareness among the people to know about various renewable and nonrenewable resources of the region.  
-- It provides the knowledge about ecological systems and cause and effect relationships.  
+- It provides the knowledge about ecological Systems and cause and effect relationships.  
 - It provides necessary information about biodiversity richness and the potential dangers to the species of plants, animals and microorganisms in the environment.  
 - The study enables one to understand the causes and consequences due to natural and main induced disasters (flood, earthquake, landslide, cyclones etc.,) and pollutions and measures to minimize the effects.  
 - It enables one to evaluate alternative responses to environmental issues before deciding an alternative course of action.  
@@ -186,11 +186,11 @@ to make appropriate judgments and decisions for the protection and improvement o
 ## Importance of environmental study
  [**Importance of Environmental study**](https://github.com/princekunal101/academic-section/blob/main/Studies/Environment%20and%20Echology/UNIT%201/importance_of_envnt.md) is 
 based upon a comprehensive view of various environmental 
-systems. It aims to make the citizens competent to do scientific 
+Systems. It aims to make the citizens competent to do scientific 
 work and to find out practical solutions to current 
 environmental problems. The citizens acquire the ability to 
 analyze the environmental parameters like the aquatic, 
-terrestrial and atmospheric systems and their interactions with 
+terrestrial and atmospheric Systems and their interactions with 
 the biosphere and astrosphere.
 
 ### Importance 

@@ -2,7 +2,7 @@
 
 **“The ozone layer is a region in the earth’s stratosphere that contains high concentrations of ozone and protects the earth from the harmful ultraviolet radiations of the sun.”**
 
-The ozone layer is mainly found in the lower portion of the earth‟s atmosphere. It has the potential to absorb around 97-99% of the harmful ultraviolet radiations coming from the sun that can damage life on earth. If the ozone layer was absent, millions of people would develop skin diseases and may have weakened immune systems.
+The ozone layer is mainly found in the lower portion of the earth‟s atmosphere. It has the potential to absorb around 97-99% of the harmful ultraviolet radiations coming from the sun that can damage life on earth. If the ozone layer was absent, millions of people would develop skin diseases and may have weakened immune Systems.
 
  <p align="center">O<sub>2</sub> + ultraviolet light &rarr; O + O (Free oxygen atoms) </p>
  <p align="center">
@@ -56,7 +56,7 @@ Examples of ODSs are chlorofluorocarbons (CFCs), hydro chlorofluorocarbons (HCFC
 -	There are a few natural causes also which cause ozone depletion such as volcanic eruptions, sunspots and stratospheric winds. However, these do not cause more than 1 – 2% of the ozone depletion.
 
 **Effects of Ozone Layer Depletion:** The depletion of the ozone layer has harmful effects on the environment. Let us see the major effects of ozone layer depletion on man and environment. 
--	**Effects on Human Health:** Humans will be directly exposed to the harmful ultraviolet radiation of the sun due to the depletion of the ozone layer. This might result in serious health issues among humans, such as skin diseases, cancer, sunburns, cataract, quick ageing and weak immune system. 
+-	**Effects on Human Health:** Humans will be directly exposed to the harmful ultraviolet radiation of the sun due to the depletion of the ozone layer. This might result in serious health issues among humans, such as skin diseases, cancer, sunburns, cataract, quick ageing and weak immune System. 
 -	**Effects on Animals:** Direct exposure to ultraviolet radiations leads to skin and eye cancer in animals. 
 -	**Effects on the Environment:** Strong ultraviolet rays may lead to minimal growth, flowering and photosynthesis in plants. The forests also have to bear the harmful effects of the ultraviolet rays. 
 -	**Effects on Marine Life:** Planktons are greatly affected by the exposure to harmful ultraviolet rays. These are higher in the aquatic food chain. If the planktons are destroyed, the organisms present in the food chain are also affected.
@@ -98,7 +98,7 @@ Following are the major causes of global warming:
 Following are the major effects of global warming:
 
 -	**Rise in Temperature:** Global warming has led to an incredible increase in earth‟s temperature. Since 1880, the earth‟s temperature has increased by 1 degrees. This has resulted in an increase in the melting of glaciers, which have led to an increase in the sea level. This could have devastating effects on coastal regions. 
--	**Threats to the Ecosystem:** Global warming has affected the coral reefs that can lead to the loss of plant and animal lives. Increase in global temperatures has made the fragility of coral reefs even worse. 
+-	**Threats to the EcoSystem:** Global warming has affected the coral reefs that can lead to the loss of plant and animal lives. Increase in global temperatures has made the fragility of coral reefs even worse. 
 -	**Climate Change:** Global warming has led to a change in climatic conditions. There are droughts at some places and floods at some. This climatic imbalance is the result of global warming. 
 -	**Spread of Diseases:** Global warming leads to a change in the patterns of heat and humidity. This has led to the movement of mosquitoes that carry and spread diseases. 
 -	**High Mortality Rates:** Due to an increase in floods, tsunamis and other natural calamities, the average death toll usually increases. Also, such events can bring about the spread of diseases that can hamper human life.
@@ -173,11 +173,11 @@ Sulphur dioxide and nitrogen dioxide undergo oxidation, and then they react with
 ### Effects of Acid Rain 
 -	Acid rain is very harmful to agriculture, plants, and animals. It washes away all nutrients which are required for the growth and survival of plants. Acid rain affects agriculture by the way it alters the composition of the soil. 
 -	It causes respiratory issues in animals and humans. 
--	When acid rain falls down and flows into the rivers and ponds it affects the aquatic ecosystem. It alters the chemical composition of the water, to a form which is actually harmful to the aquatic ecosystem to survive and causes water pollution. 
+-	When acid rain falls down and flows into the rivers and ponds it affects the aquatic ecoSystem. It alters the chemical composition of the water, to a form which is actually harmful to the aquatic ecoSystem to survive and causes water pollution. 
 -	Acid rain also causes the corrosion of water pipes, which further results in leaching of heavy metals such as iron, lead and copper into drinking water. 
 -	It damages the buildings and monuments made up of stones and metals. 
 ### Climate change
-Climate change refers to long-term shifts in temperatures and weather patterns. These shifts may be natural, such as through variations in the solar cycle due to the changes in the atmosphere as well as the interactions between the atmosphere and various other geological, chemical, biological and geographical factors within the Earth‟s system is called Climate change. 
+Climate change refers to long-term shifts in temperatures and weather patterns. These shifts may be natural, such as through variations in the solar cycle due to the changes in the atmosphere as well as the interactions between the atmosphere and various other geological, chemical, biological and geographical factors within the Earth‟s System is called Climate change. 
 ***The main causes of climate change include:*** 
 -	Emission of greenhouse gases into the atmosphere 
 -	Deforestation for human settlements 
