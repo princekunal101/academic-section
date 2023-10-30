@@ -5,7 +5,7 @@
 - Control of environmental pollution.  
 - Stabilization of human population and environment. 
 - Social issues in relation to development and environment.  
-- Development of non-polluting renewable energy system and providing new dimension to nation’s security. 
+- Development of non-polluting renewable energy System and providing new dimension to nation’s security. 
 
 
 Abiotic 

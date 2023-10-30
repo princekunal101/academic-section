@@ -5,11 +5,11 @@
 
  **Importance of Environmental study** is 
 based upon a comprehensive view of various environmental 
-systems. It aims to make the citizens competent to do scientific 
+Systems. It aims to make the citizens competent to do scientific 
 work and to find out practical solutions to current 
 environmental problems. The citizens acquire the ability to 
 analyze the environmental parameters like the aquatic, 
-terrestrial and atmospheric systems and their interactions with 
+terrestrial and atmospheric Systems and their interactions with 
 the biosphere and astrosphere.
 
 #### Importance 
