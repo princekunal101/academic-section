@@ -1,11 +1,11 @@
 ### Functional Units of Digital System
-- A computer organization describes the functions and design of the various units of a digital system.
-- A general-purpose computer system is the best-known example of a digital system. Other examples include telephone switching exchanges, digital voltmeters, digital counters, electronic calculators and digital displays.
+- A computer organization describes the functions and design of the various units of a digital System.
+- A general-purpose computer System is the best-known example of a digital System. Other examples include telephone switching exchanges, digital voltmeters, digital counters, electronic calculators and digital displays.
 - Computer architecture deals with the specification of the instruction set and the hardware units that implement the instructions.
 - Computer hardware consists of electronic circuits, displays, magnetic and optic storage media and also the communication facilities.
 - Functional units are a part of a CPU that performs the operations and calculations called for by the computer program.
-- Functional units of a computer system are parts of the CPU (Central Processing Unit) that performs the operations and calculations called for by the computer program. A computer consists of five main components namely, Input unit, Central Processing Unit, Memory unit Arithmetic & logical unit, Control unit and an Output unit.
-![block diagram.javapoint](https://static.javatpoint.com/tutorial/coa/images/functional-units-of-digital-system.png)
+- Functional units of a computer System are parts of the CPU (Central Processing Unit) that performs the operations and calculations called for by the computer program. A computer consists of five main components namely, Input unit, Central Processing Unit, Memory unit Arithmetic & logical unit, Control unit and an Output unit.
+![block diagram.javapoint](https://static.javatpoint.com/tutorial/coa/images/functional-units-of-digital-System.png)
 #### Input unit
 - Input units are used by the computer to read the data. The most commonly used input devices are keyboards, mouse, joysticks, trackballs, microphones, etc.
 - However, the most well-known input device is a keyboard. Whenever a key is pressed, the corresponding letter or digit is automatically translated into its corresponding binary code and transmitted over a cable to either the memory or the processor.
@@ -26,7 +26,7 @@
 - Most of all the arithmetic and logical operations of a computer are executed in the ALU (Arithmetic and Logical Unit) of the processor. It performs arithmetic operations like addition, subtraction, multiplication, division and also the logical operations like AND, OR, NOT operations.
 #### Control unit
 - The control unit is a component of a computer's central processing unit that coordinates the operation of the processor. It tells the computer's memory, arithmetic/logic unit and input and output devices how to respond to a program's instructions.
-- The control unit is also known as the nerve center of a computer system.
+- The control unit is also known as the nerve center of a computer System.
 - Let's us consider an example of addition of two operands by the instruction given as Add LOCA, RO. This instruction adds the memory location LOCA to the operand in the register RO and places the sum in the register RO. This instruction internally performs several steps.
 #### Output Unit
 - The primary function of the output unit is to send the processed results to the user. Output devices display information in a way that the user can understand.
@@ -58,15 +58,15 @@ Here, the letter 'n' indicates the number of bits for the register. The 'n' outp
 A load input is activated by the control variable 'P' which is transferred to the register R2.
 
 ### Bus and Memory Transfers
-A digital system composed of many registers, and paths must be provided to transfer information from one register to another. The number of wires connecting all of the registers will be excessive if separate lines are used between each register and all other registers in the system.
+A digital System composed of many registers, and paths must be provided to transfer information from one register to another. The number of wires connecting all of the registers will be excessive if separate lines are used between each register and all other registers in the System.
 
-A bus structure, on the other hand, is more efficient for transferring information between registers in a multi-register configuration system.
+A bus structure, on the other hand, is more efficient for transferring information between registers in a multi-register configuration System.
 
 A bus consists of a set of common lines, one for each bit of register, through which binary information is transferred one at a time. Control signals determine which register is selected by the bus during a particular register transfer.
 
-The following block diagram shows a Bus system for four registers. It is constructed with the help of four 4 * 1 Multiplexers each having four data inputs (0 through 3) and two selection inputs (S1 and S2).
+The following block diagram shows a Bus System for four registers. It is constructed with the help of four 4 * 1 Multiplexers each having four data inputs (0 through 3) and two selection inputs (S1 and S2).
 
-We have used labels to make it more convenient for you to understand the input-output configuration of a Bus system for four registers. For instance, output 1 of register A is connected to input 0 of MUX1.
+We have used labels to make it more convenient for you to understand the input-output configuration of a Bus System for four registers. For instance, output 1 of register A is connected to input 0 of MUX1.
 ![Bus System for 4 register.javapoint](https://static.javatpoint.com/tutorial/coa/images/bus-and-memory-transfers.png)
 The two selection lines S1 and S2 are connected to the selection inputs of all four multiplexers. The selection lines choose the four bits of one register and transfer them into the four-line common bus.
 
@@ -78,15 +78,15 @@ The following function table shows the register that is selected by the bus for 
 ![Register Selected](https://static.javatpoint.com/tutorial/coa/images/bus-and-memory-transfers2.png)
 > _📝_ Note: The number of multiplexers needed to construct the bus is equal to the number of bits in each register. The size of each multiplexer must be 'k * 1' since it multiplexes 'k' data lines. For instance, a common bus for eight registers of 16 bits each requires 16 multiplexers, one for each line in the bus. Each multiplexer must have eight data input lines and three selection lines to multiplex one significant bit in the eight registers.
 
-A bus system can also be constructed using **three-state gates** instead of multiplexers.
+A bus System can also be constructed using **three-state gates** instead of multiplexers.
 
 The **three state gates** can be considered as a digital circuit that has three gates, two of which are signals equivalent to logic 1 and 0 as in a conventional gate. However, the third gate exhibits a high-impedance state.
 
-The most commonly used three state gates in case of the bus system is a **buffer gate.**
+The most commonly used three state gates in case of the bus System is a **buffer gate.**
 
 The graphical symbol of a three-state buffer gate can be represented as:
 ![Buffer gate.javapoint](https://static.javatpoint.com/tutorial/coa/images/bus-and-memory-transfers3.png)
-The following diagram demonstrates the construction of a bus system with three-state buffers.
+The following diagram demonstrates the construction of a bus System with three-state buffers.
 ![Bus line with three state buffer.javapoint](https://static.javatpoint.com/tutorial/coa/images/bus-and-memory-transfers4.png)
 - The outputs generated by the four buffers are connected to form a single bus line.
 - Only one buffer can be in active state at a given point of time.
