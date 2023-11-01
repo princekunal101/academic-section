@@ -135,5 +135,143 @@ In this, each master has a separate pair of bus request & bus grant lines & each
 - Micro-operation
 - Register Transfer Level
 - Register Transfer Language
+## Micro-Operation
+The operation on the data in register are called **micro-operation**.
+An elementry operation performed during one clock pulses, on the information stored in one or more registers.
+> R &larr; F(R,R)
+- F: shift, load, clear, increment, add, subtract, complement, and, or, xor, etc.
+- Control signals that initiate the sequence of micro-operations.
+![mico-operation diagram]()
+> P:R<sub>2</sub> &larr; R<sub>2</sub>
+"If P=1, then load the contents of reister R<sub>1</sub> into Register R<sub>2</sub>", i.e. if (P=1) then (R<sub>2</sub> &larr; R<sub>1</sub>)
+![transfer control-circuit]()
+- Registera are assumed to use positive edge-triggered *filp-flop*.
+- To completely connect *n* registers *n(n-1)* lines.
+- O(n<sup>2</sup>) cost.
+## Bus & Bus Transfer
+![Registers Diagram]()
+- Transfer from Bus to a Destination Register.
+![Bus lines]()
+- A Register is a collection of *Flip-Flops* used to store binary data & manipulate it using control signals.
+
+It consists of mostly memory storsge, allowing it to store data temporarly or permanaetly.
+
+Types of Register.
+- Data
+- Address
+### Register Transfer
+Information transferred from one register to another is designated in symbolic form.
+> R<sub>2</sub> &larr; R<sub>1</sub>
+### Control Function
+It is a boolean \variable that is equal to 1 or 0.
+> P:R<sub>2</sub> &larr; R<sub>1</sub>
+It shows that transfer operation can be executed only if ```P=1```.
+### Micro-operations
+The operations executed on data stored in registers are called micro-operation.
+
+Types of Micro-operations &mdash;
+- Register transfer micro-operation it transfer binary information from one register to another.
+> R<sub>2</sub> &larr; R<sub>1</sub>
+- To connect *n* Registers we need n(n-1) line.
+- O(n<sup>2</sup>) cost.
+### Multiplxer
+It is a combinational circuit which have many data Input & single Output depeding on controlor select input.
+> Number of Mux = Number of Bits in Register.
+> Number of Input in Mux = Number of Register.
+
+## Memory Transfer
+### Memory Read
+The teansfer of information from memory to the outsie environment is callled a **read operation.**
+> Read: DR &larr; M[AR]
+### Memory Write
+Transfer of new information to be stored into the memory is called a **write operation.**
+> Write: M[AR] &larr; DR
+#### Repersentaion-
+| Decimal | Hexadecimal | Binary |
+| ------- | ----------- | ------ |
+| 0 | 0 | 0000 |
+| 1 | 1 | 0001 |
+| 2 | 2 | 0010 |
+| 3 | 3 | 0011 |
+| 4 | 4 | 0100 |
+| 5 | 5 | 0101 |
+| 6 | 6 | 0110 |
+| 7 | 7 | 0111 |
+| 8 | 8 | 1000 |
+| 9 | 9 | 1001 |
+| 10 | A | 1010 |
+| 11 | B | 1011 |
+| 12 | C | 1100 |
+| 13 | D | 1101 |
+| 14 | E | 1110 |
+| 15 | F | 1111 |
+
+- Dcimal to Binary conversion &mdash;
+> (21)<sub>10</sub> = (?)<sub>2</sub>
+
+> = (10101)<sub>2</sub>
+
+| *2* | 21 | --- |
+|- | --- | --- |
+| *2*  | 10 | &rarr; 1 |
+| *2* | 5  | &rarr; 0 |
+| *2* | 2  | &rarr; 1 |
+|  | &rarr; 1  | &rarr; 0 |
+
+> (1492)<sub>10</sub> = ( ? )<sub>2</sub>
+
+> = (10111010100)<sub>2</sub>
+
+- A number System relates quantities & Symbols. 
+- A number System uses a specific *radix* (base).
+- The base/radix of a number system repersentd the number of digits in the particular number system.
+- An Unsigned integer number, A can be repersented using *n* digits is base **b**.
+> A = *( a<sub>n-1</sub> a<sub>n-2</sub> . . . a<sub>2</sub> a<sub>1</sub> a<sub>0</sub> )<sub>b</sub>*
+
+- (29)<sub>10</sub> &rarr; (11101)<sub>2</sub>
+- (125)<sub>10</sub> &rarr; (1111101)<sub>2</sub>
+- (45)<sub>10</sub> &rarr; (101101)<sub>2</sub>
+- (57)<sub>10</sub> &rarr; (111001)<sub>2</sub>
+- (36)<sub>10</sub> &rarr; (1100100)<sub>2</sub>
+- (247)<sub>10</sub> &rarr; (11110111)<sub>2</sub>
+
+| 2 | *29* | 1 | &uarr; |
+| --| -- | -- | -- |
+| 2 | *14* | 0 | &uarr; |
+| 2 | *7*  | 1 | &uarr; |
+| 2 | *3*  | 1 | &uarr; |
+|  | *1*  | 1 | &uarr; |
+| | | &rarr; | &uarr; |
+
+| 2 | *125* | 1 | &uarr; |
+| --| -- | -- | -- |
+| 2 | *62* | 0 | &uarr; |
+| 2 | *31*  | 1 | &uarr; |
+| 2 | *15*  | 1 | &uarr; |
+| 2 | *7*  | 1 | &uarr; |
+| 2 | *3*  | 1 | &uarr; |
+|  | *1*  | 1 | &uarr; |
+| | | &rarr; | &uarr; |
+
+#### Data Repersentaion
+Computer data repersentation can store a variety of data including discrete data such as number & letters & continousdata such as sounds & Images
+- The stored data is handaied by electronic circuit example Transistors semiconductors, Integrated circuit or wires, which exist in two conditions *(state)* **ON** & **OFF** or *1* or *0*.
+#### Data Types
+Data is a term used to decribe a set of facts. A single fact is known as Datum.
+- It can be of *three* types
+1. Numeric Data
+2. Alphabetic Data
+3. Alphabatic Data 
+#### Numbers 
+- Numbers can be expressed as either **Integers** *Whole numbers e.g. 124, -26* or **Real Numbers** *Numbers with decimal points, e.g. 1.23*
+
+A whole number is real if it is written with a decimal point, *(e.g. 1.25 in it **1** is integer but **.25** is real number)*
+#### Alphabetic data
+- This is data made from combination of alphabetic characyers, such as names.
+#### Alphanumeric Data
+- A string is a squence of charecters . This is data made from combination of alphabetic characters, numerals &/or Special charecters.
+- e.g. Address &larr; P.O. 299, Gurugram.
+- e.g. Date &larr; Nov 14, 1990. Sept 15, 2023
+
 
 > *📝* **Author:** *Prof. Anjali*
