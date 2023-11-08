@@ -273,5 +273,223 @@ A whole number is real if it is written with a decimal point, *(e.g. 1.25 in it 
 - e.g. Address &larr; P.O. 299, Gurugram.
 - e.g. Date &larr; Nov 14, 1990. Sept 15, 2023
 
+#### Binary to Decimal
+> (11101)<sub>2</sub> = ( ? )<sub>10</sub>
+
+> = [(1 x 2<sup>4</sup>) + (1 x 2<sup>3</sup>)+ (1 x 2<sup>2</sup>) + (0 x 2<sup>1</sup>) + (1 x 2<sup>0</sup>)]<sub>10</sub>             
+
+> &because; [2<sup>0</sup> = 1]
+
+> = 16 + 8 + 4 + 0 + 1
+> (29)<sub>10</sub>
+#### Binary to Ocatal
+> (1010101)<sub>2</sub> = ( ? )<sub>10</sub>
+
+> = [(1 x 2<sup>6</sup>) + (0 x 2<sup>5</sup>)+ (1 x 2<sup>4</sup>) + (0 x 2<sup>3</sup>) + (1 x 2<sup>2</sup>) + (0 x 2<sup>1</sup>) + (1 x 2<sup>0</sup> )]<sub>10</sub> 
+
+> = 64 + 0 + 16 + 0 + 4 + 0 + 1
+
+> = 64 + 21 
+
+> = (85)<sub>10</sub>
+
+Now convert 
+| 8 | *85* | 5 | &uarr; |
+| --| -- | -- | -- |
+| 8 | *10* | 2 | &uarr; |
+|  | *1*  | 1 | &uarr; |
+| | | &rarr; | &uarr; |
+
+> = (125)<sub>8</sub>
+
+![Binary to Ocatal with paring]()
+#### Octal to Binary Conversion
+> (41)<sub>8</sub> = ( ? )<sub>2</sub>
+
+> = (4 x 8<sup>1</sup>) + (4 x 8<sup>0</sup>)
+
+> = 32 + 1
+
+> = (33)<sub>10</sub>
+
+| 2 | *33* | 1 | &uarr; |
+| --| -- | -- | -- |
+| 2 | *16* | 0 | &uarr; |
+| 2 | *8*  | 0 | &uarr; |
+| 2 | *4*  | 0 | &uarr; |
+| 2 | *2*  | 0 | &uarr; |
+|  | *1*  | 1 | &uarr; |
+| | | &rarr; | &uarr; |
+
+> = (100001)<sub>10</sub>
+
+![Ocatal to Binary with paring]()
+#### Hexa Decimal
+> (1001001)<sub>2</sub> = ( ? )<sub>16</sub>
+
+> = [(1 x 2<sup>6</sup>) + (0 x 2<sup>5</sup>)+ (0 x 2<sup>4</sup>) + (1 x 2<sup>3</sup>) + (0 x 2<sup>2</sup>) + (0 x 2<sup>1</sup>) + (1 x 2<sup>0</sup> )]<sub>10</sub> 
+
+> = 64 + 0 + 0 + 8 + 0 + 0 + 1
+
+> = (73)<sub>10</sub>
+
+Now convert 
+| 16 | *73* | 9 | &uarr; |
+| --| -- | -- | -- |
+|  | *4* | 4 | &uarr; |
+| | | &rarr; | &uarr; |
+
+> = (149)<sub>16</sub>
+
+![Binary to Hexa Decimal with paring]()
+## Register
+A register is a group of *flip-flop*. with each *flip-flop* capable of storing one bit of information.
+An n-bit register has a group of n *flip-flop* and is capable of storing any binary information of n-bit.
+In addition to *flip-flops*, a register may have combinational gates that perform certain data processing task. so,
+A register consist of group of *flip-flops* and gate that effect their transitions.
+1. The *flip-flop* holds the binary information.
+2. Gates control when and how new information i transfered into the registers.
+### 4-bit register
+- The Simplest register without gates,contains only *flip-flop(D).*
+- The common clock input triggers all *flip-flops*. On the rising edge of each puls. The binary data available at the four input are transferred into 4-bit register.
+- The 4-Output can be obtain the binary information stored in the register.
+- The clear input goes to a special terminal in each *flip-flop*. When iput goes to 'O' all *flip-flop* are reset.
+- The clear input is use to clearing the register to all 0's prior to 1's clocked operation.
+- The *'clock'* signal enables the 'D' input but the *'clear'* input is independent to check signals.
+
+![Register Diagram]()
+### Rgister Load
+The transfer of new information into a register is referred to as loadinf the register. If all the bits of register are loaded simulotaniously with a common clock pulse than the loading is said to be done in parallel.
+#### Representation of Register
+The most common method to represent a register is by a rectangular box with the name of register inside.
+> R1
+
+The individual flip-flop in an n-bit register are numbered in sequence from are numbered in sequence from 0 to (n-1) starting from '0' in the right most position & increasing the numbers towards left.
+![Showing individual bit]()
+
+The numbering of bits in a 16 bit register can be marked on the top of the Box.
+![Numbering of 16-bit]()
+
+A 16-bit register is partitioned into two parts like 
+![Devided into two parts]() 
+the name of the 16-bit register is PC the symbol
+   
+    PC(0-7) or PC(L) refers to Lower order bytes. and
+
+    PC(8-15) or PC(H) refers to Higher order bytes.
+#### Micro-Operations
+The operation executed on the data in registers are called micro-operations.
+The are detailed low-level instruction used in some desgins to implement complex machine instructions
+A micro-operation is an elementry operation performed on the information stored in one or on more register.
+The result of operation may replace the previous binary information of register information may replace the previoud binary information of a register or may be form stored to anothe register.
+The micro-operation in digital computers are of 4 types.
+- Register transfer micro-operations transfer binary information from one register to another.
+> (R<sub>2</sub> &larr; R<sub>1</sub>)
+- Arithmatic micro- operations perform arithmatic operations on numeric data stored in register.
+> R<sub>3</sub> &larr; R<sub>1</sub> + R<sub>2</sub>
+- Subtract micro-operation 
+> R<sub>3</sub> &larr; R<sub>1</sub> + R<sub>2</sub> + 1
+
+In substraction, instead of using minus operator we the 1's complement & add to the register which gets sub, i,e,
+> R<sub>1</sub> &#8211; R<sub>2</sub> is equivalent to 
+
+> R<sub>3</sub> &larr; R<sub>1</sub> + R<sub>2</sub> + 1
+
+#### Increment/Decrement micro-operation
+These are generally pwrformed by adding & Substracting 1 to and from the register respestively
+> R<sub>1</sub> &larr; R<sub>1</sub> + 1
+
+> R<sub>3</sub> &larr; R<sub>1</sub> - 1
+
+#### Logic micro-operation
+These are binary micro-operations performed on the bits stores in the register.
+> P: R<sub>3</sub> &larr; R<sub>1</sub> X - OR R<sub>2</sub>
+
+> (A &middot; B&#773; ) + (A&#773; &middot; B)
+
+> (A + B) &middot; (A&#773; + B&#773;)
+
+- R<sub>1</sub> &rarr; 010
+- R<sub>2</sub> &rarr; 100
+- R<sub>3</sub> &larr; 110
+
+#### Shift operations
+These are used for serial transfer of data. That means we can shift thw content of the register to the left or right.
+
+**Register Trasnfer Language**
+
+The symbolic notaion used to describe the micro-operation transfer amongest register is called RTL.
+The term register trasfer means the availability of hardware logic circuits that can perform a stated micro-operation and transfer the result of the operation to the same or another register.
+A register transfer language is a system for expressing in symbolic from the mico-operation squence among the register if a digital module.
+
+**Following are commonly used Registers**
+1. **Accumlator :** *It is used to store data taken out from the memory.*
+2. **General Purpose Register :** *This is used to store data intermediate results during program execution. It can be accessed via assembly programming.*
+3. **Special Purpose Register :** *These regiters are for computer system.*
+- **MAR :**  *Memory Address Register are those registers that holds the address for memory unit.*
+- **MDR :** *Memory data register that store data received from memory & sent from memory.* 
+- **PC :** *Program Counter points to the next instruction to be executed.*
+- **IC :** *Instruction register holds the information to be educated.*
+
+### Shift Register
+A register capable of shifting its binary information in one or both direction is called shift register.
+#### Types of Shift Register 
+- **Serial In and serial out:** *The data is shifted in and out serially. In **SISO**, A single bit is shifted at a time.*
+
+![Serial input serial output register diagram]()
+
+- **Serial In Parallel out:**
+*The data is passed serially to the Register and output are fetched in a parallel way.*
+
+![Serial input parallel output register diagram]()
+- **Parallel in Serial out:**
+*The data is a transfer in a parallel way and the output comes serially.*
+
+![Paralel input serial output register diagram]()
+- **Parallel In parallel out:**
+*Parallel data is a transferred simultaneously into the Register and transferred to their respective output by the same **clock pulse.***
+![Parallel input parallel output register diagram]()
+
+![Registers types of diagram]()
+
+The Register in CPU performs two roles.
+### User visible Register
+A user visible register may be refernced by means of a machine language that the processor executes.
+#### General Purpose Register
+- Can be used by programmer.
+- Contains operands for any opcode.
+- Can be used for addressing function *(e.g. registered in direct displacement.)*
+#### Data Register
+It may be used only to hold the data.
+#### Address Register
+It may be devoted to a particular addressing mode.
+*e.g.*
+- Segment Pointer
+- Index register
+- Stack Pointer
+
+**Segment Pointer** holds the address of the base of segment in segmented addressing.
+
+**Index Register** are used for indexed addressing & may be auto indexd.
+
+**Stack pointer** points to the top of the stack. This allows implicit addressing that is push, pop and other stack instructions used not contain an explicit stack operand.
+#### Condition codes
+It is also referred to as flags.Condition code are the bits set by the processor hardware as the result of operation.
+*e.g.*
+- Positive or negative Result.
+- Zero Result
+- Overflow etc.
+
+### Control & status Register
+- Registers employed to control the operation of processor.
+- Note visible to the users.
+- Four registers are essential to instructions execution.
+#### PC, IR, MAR, MDR
+- **Program counter** contains the address of the instruction to be fetched.
+- **Instruction register** contains the instruction most recently fetched. or currently being executed.
+- **MDR** contains the address of a location in the memory.
+- **MDR/MBR** *(memory buffer register)* contains a word of the data to be written to memory or the word most recently read.
+
+
 
 > *📝* **Author:** *Prof. Anjali*
