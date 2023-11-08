@@ -1,6 +1,6 @@
 # IEC College of Enginearing & Technology 
 ## Questions (CT & PUT).
-### Third Semester 2023-24
+## Third Semester 2023-24
 #### CT - 01 (2023-24)
 
 - [Data Structure BCS-301](https://raw.githubusercontent.com/princekunal101/academic-section/main/Studies/IEC-Question-paper-CT-PUT/Third-sem/Data-structure-bcs301.jpg)
@@ -14,7 +14,7 @@
 - [Universal Human Values and Professional Ethics BVE-301](https://raw.githubusercontent.com/princekunal101/academic-section/main/Studies/IEC-Question-paper-CT-PUT/Third-sem/Universal-human-values-&-profrssional-ethics-bve301.jpg)
 
 - [Python Programming BCC-302](https://raw.githubusercontent.com/princekunal101/academic-section/main/Studies/IEC-Question-paper-CT-PUT/Third-sem/python-programming-bcc302.jpg)
-### Second Semester 
+## Second Semester 
 #### CT-01 (2022-23)
 - [Engineering Mathematics II BAS-203](https://raw.githubusercontent.com/princekunal101/academic-section/main/Studies/IEC-Question-paper-CT-PUT/Second-sem/Engineering-mathematics-ii-bas203-ct01.jpg)
 
@@ -37,7 +37,7 @@
 
 - [Programming for Problem Solving BCS-201](https://raw.githubusercontent.com/princekunal101/academic-section/main/Studies/IEC-Question-paper-CT-PUT/Second-sem/Programming-for-problem-solving-bcs201-ct-02.jpg)
 
-### First Semester 
+## First Semester 
 #### CT-01 (2022-23)
 - [Engineering Chemistry BAS-102](https://raw.githubusercontent.com/princekunal101/academic-section/main/Studies/IEC-Question-paper-CT-PUT/First-sem/Engineering-chemistry-bas102-ct01.jpg)
 
