@@ -490,6 +490,410 @@ It is also referred to as flags.Condition code are the bits set by the processor
 - **MDR** contains the address of a location in the memory.
 - **MDR/MBR** *(memory buffer register)* contains a word of the data to be written to memory or the word most recently read.
 
+## Processor (CPU) organization
+A processor must have three functional unit to be what we call a computer
+![Major Componenets of CPU]()
+### Types of processor Organization
+- Stored Program Organization
+- General Register Organization
+- Stack Organization
+
+### Stored Program Organization
+![stored program organization diagram]()
+
+    main()
+    {
+       int a=10, b=20, c;
+
+       c= a+b;
+
+       printf("Result %d", c);
+    }
+
+In the stored Program concept, both the instruction & the data (that, the instruction operate on) are stored int hte computer memory itself. Before the introduction of this data, instruction and data were considered two totally different entites & were thus stored separately.
+
+It is the simplest organization of the computer.
+
+It is easy to imlement.
+
+It has hardwired control unit.
+![Processor diagram]()
+| Short Form |Full Form | Size |
+| ------ | ----- | ----- |
+| **IR** | Instruction Register | *16 bits*.|
+| **AR** | Address Register | *12 bits* |
+| **DR** | Data Register | *16 bits* |
+| **TR** | Temporary Register | *16 bits* |
+| **PC** | Program Counter | *12 bits* |
+| **AC** | Accumulator | *16 bits* |
+| **INPR** | Input Register | *8 bits* |
+| **OUTR** | Output Register | |
+
+![Instruction formate fig]()
+
+The First part specifies the operation to be performed & the second species an address.
+
+The Memory Address tells the comntrol where to find an operand in memory.
+
+This operand is read from memory & used as the data to be operated on togather with the data stored in the processor register.
+
+> It is also known as Single - Processor register or Accumulator Organization. 
+
+Processor organization means how the components of processor ae connected and accomplish theor tasks.
+
+A processor does the following thing,.
+- Fetch Instruction
+- Interpret Instruction
+- Fetch Data
+- Process Data
+- Write Data
+#### Fetch Instruction
+The processor reads an instruction from memory.
+#### Interpret/Decode Instruction
+The instruction is decoded to determine what action is required.
+#### Fetch Data
+The execution of an instruction may require reading data from memory or an Input/Output module.
+#### Process Data
+It perform some arithmetic or logical operation on the data.
+#### Write Data
+The result of an execution may require writing data to memory module or Input/Output module.
+> **NOTE:** Stores the results of calculation mode by ALU. It holds the intermediate of arithmetic & logical operations. It act as a temporary storage location or device.
+#### Drawbacks of SPO
+- It works on the sequential process then it takes more steps to execute an instruction.
+- It is time consuming.
+- It only considered one Register/Accumulator for communication purpose.
+### General Register Organization
+- Memory access is the most time consuming operation in a computer.(SPO)
+- It is more convenient & more efficient to store the intermediate values in processor register.
+- The register communicate with each other not only for direct data transfer, but also while performing various micro-opeeration.
+- It has a micro-programmed control unit.
+
+![General register organisation fig]()
+If a CPU includes some registers therefore a common bus can link these registers. A genral organization of seven CPU register is displayed in the fig. above.
+
+The CPU bus system is managed by the control unit. The CU explicit the data f;ow through the ALU by choosing the function of the ALU and the component of the system.
+
+*for e.g.*
+Perform the operation 
+> R<sub>1</sub> &larr; R<sub>2</sub> + R<sub>3</sub>
+1. **MUX A Selector (SEL A):** TO place the content of R<sub>2</sub> into bus A.
+2. **MUX B Selctor (SLE B):** To place the content of R<sub>3</sub> into bus B.
+3. **ALU Operation Slector (OPR):** To provide the arithmatic addition A+B.
+4. **Decorder destination Selector (SEL D):** To transfer the content of the output bus into R<sub></sub>
+
+#### Control Word
+- Sequence of binary information
+- Specifies the micro-operation to be performed
+- The peration with the content of register is called as micro- operation.
+
+There are 14 binary selection inputs in the unit & their combined value specifies a controlword.
+
+**Encoding of Register Selection Fields.**
+| Binary Code | SEL A | SEL B | SEL D |
+|------------ |-------| ----- | ----- |
+| 000 | Input |Input | Input |
+| 001 | R<sub>1</sub> | R<sub>1</sub> | R<sub>1</sub> |
+| 010 | R<sub>2</sub> | R<sub>2</sub> | R<sub>2</sub> |
+| 011 | R<sub>3</sub> | R<sub>3</sub> | R<sub>3</sub> |
+| 100 | R<sub>4</sub> | R<sub>4</sub> | R<sub>4</sub> |
+| 101 | R<sub>5</sub> | R<sub>5</sub> | R<sub>5</sub> |
+| 110 | R<sub>6</sub> | R<sub>6</sub> | R<sub>6</sub> |
+| 111 | R<sub>7</sub> | R<sub>7</sub> | R<sub>7</sub> |
+
+- Specifies the binary code for each of the three fields.
+- When SEL A or, SEL B is 000, the corresponding multiplexer selcts the external input data.
+- When SEL D = 000, no destination register is selcted but the contents of the output bus are availabe in the external output.
+
+**Encoding of ALU operations**
+| OPR Select | Operation | Symbol |
+| ---------- | --------- | ------ |
+| 00000 | Transfer A | TSFA |
+| 00001 | Increment A | INCA |
+| 00010 | Add A+B | ADD |
+| 00101 | Subtract A-B | SUB |
+| 00110 | Decrement A | DECA |
+| 01000 | AND A&B | AND |
+| 01010 | OR A&B | XOR |
+| 01100 | XOR A&B | XOR |
+| 01110 | Complement A | COMA |
+| 10000 | Shift Right A | SHRA |
+| 11000 | Shift Left A | SHLA |
+
+**Example of Micro-operation**
+> R<sub>1</sub> &larr; R<sub>2</sub> - R<sub>3</sub>
+
+| Field: | SEL A | SEL B | SEL D | OPR |
+| ------ | ----- | ----- | ----- | ---- |
+| **Symbol:** | R<sub>2</sub> | R<sub>3</sub> | R<sub>1</sub> | SUB |
+| **Control Word:** | 010 | 011 | 001 | 00101 |
+| **R<sub>1</sub> &larr; R<sub>2</sub> + R<sub>3</sub>** | R<sub0>2</sub> | R<sub>3</sub> | R<sub>1</sub> | ADD |
+| **R<sub>4</sub> &larr; R<sub>4</sub> &or; R<sub>5</sub>** | R<sub>4</sub> | R<sub>5</sub> | R<sub>4</sub> | OR |
+| | 100 | 101 | 100 | 01010 |
+| **R<sub>6</sub> &larr; R<sub>6</sub> + 1** | R<sub>6</sub> | &mdash; | R<sub>6</sub> | INCA |
+| | 110 | 000 | 110 | 00001 |
+| **R<sub>7</sub> &larr; R<sub>1</sub>** | R<sub>1</sub> | &mdash; | R<sub>7</sub> | TSFA | 
+| | 001 | 000 | 111 | 00000 |
+| **OUTPUT &larr; R<sub>2</sub>** | R<sub>2</sub> | &mdash; | None | TSFA |
+| | 010 | 000 | 000 | 00000 |
+| **OUT &larr; Input** | I/N | &mdash; | None | TSFA |
+| | 000 | 000 | 000 | 00000 |
+| **R<sub>4</sub> &larr; Shl R<sub>4</sub>** | R<sub>4</sub> | &mdash; |R<sub>4</sub> | SHL |
+| | 100 | 000 | 100 | 11000 |
+| **R<sub>5</sub> &larr; 0** | R<sub>5</sub> | R<sub>5</sub> | R<sub>5</sub> | XOR |
+| **Clear Register** | 101 | 101 | 101 | 01100 |
+
+## Stack Organization
+- Stack is a storage device that store information in such a manner that the item stored last is the first item [Missing a word]().
+- Stack follows **LIFO** Order
+- The register that folds the address for the stack is called a stack pointer (SP). its value always point at the top item in the stack.
+- Two operations of a stacj are insertion and deletion of Item.
+> **PUSH:** Push- down *'Insertion'*
+
+> **POP:** Pop-up *'Deletion'*
+
+### Type of Stack
+### Register Stack
+- Stack Depth is limited 
+- A finitr number of memeory words or register (stand alone)
+### Memory Stack
+- Stack Depth is Flexible 
+- A portion of large memory
+
+![Memory stack fig]()
+| Push Operation | |
+| --------- | ----- |
+| **SP &larr; SP + 1** | Increment SP |
+| **M[SP] &larr; DR** | Write to stack |
+| **If(SP=0) then (Full &larr; 1**) | Check if stack is Full |
+| **Empty &larr; 0** | Mark not empty |
+
+>It is a zero address Instruction. In it we doesn't specify the operand address.
+
+| Pop Operation | |
+| ------ | ----- |
+| DR &larr; M[SP] | Read Element |
+| SP &larr; SP - 1 | Decrement SP |
+| If (SP=0) then (Empty &larr; 1) | Check if SP is Empty |
+| Full &larr; 0 | Mark stack not full |
+
+**Infix:** (A **+** B)
+
+**Prefix:** (**+** AB) *[Polish notation]*
+
+**Postfix:** (AB **+**) *[Reverese Polish notation]*
+>*e.g.* (2 x 4) + (7 x 6)
+
+>(24x) + (76x)
+
+>24x 76x +
+
+![Operation in system stack diagram]()
+>[A * [B + C * (D + E) ] ] / (F * (G + H) )
+
+| | Input | RPN |
+| -- | ----- | ---- |
+| i. | D + E | DE + |
+| ii. | C * (D + E) | CDE +* |
+| iii. | B + C * (D + E) | BCDE +*+ |
+| iv. | [A * [B + C * (D + E) ] ] | ABCDE + * + * |
+| v. | (G + H) | GH + |
+| vi. | F * (G + H) | FGH + * |
+
+### Memeory Stack
+- A Stack can be implemented in a RAM attached to a CPU.
+- The implementation of stack in the CPU is done by assigning a portion of memory to a stck operation and using a processor register as a stack pointer. 
+
+![Memory stack operation diagram]()
+#### Push Operation
+> SP &larr; SP - 1
+
+> M[SP] &larr; DR
+
+#### Pop Operation
+>DR &larr; M[SP]
+
+>SP &larr; SP + 1
+
+#### Advantages of Register stack
+- Increase speed of Execution 
+- Zero address
+- Simple implementation
+#### Disadvantages of Register stack
+- Costly
+- Fixed
+#### Advantages of Memory stack
+- Efficient Management
+- Data Moving is fast
+- Cost effective
+#### Disadvantages of Memory stack
+- **Limited lifespam :** Data on the stck is automatically removed when its scope ends.
+### Computer Instructions
+- Computer Instructions are a set of machine language instruction
+#### Program
+A Sequence of instructions.
+#### Instruction
+An Instruction is a command given to the computer to perform a specific operation.
+- An instruction is a group of bits *(binary code)* that instructs the computer to perform a specific operation.
+- The purpose of an instruction is to specify both operation to be performed by CPU and the set of operands *(or data)*.
+
+Instruction format refer to the way instructions are encoded & represnted types of instruct format, including zero, one, two & three address instruction.
+An instruction format is a binary format which specifies a computer instruction.
+A bits of the instructions are divided into group called fields.
+
+#### Types of fields instruction
+A computer performs a task based on the instruction provided. Instruction in computers comprises group called fields. These fields contain different information for computer everything is in 0,1 so, each field has different significance based on wich a CPU decides what to perform.
+
+The most common fields in instruction formate are &mdash;
+| MOde | opCode | Addressing (operand) |
+| --- | --- | --- |
+
+**Mode :** A mode field specifies the way the operand or EA (Efective Address) of the operand is determined
+
+**OpCode :** The opcode (Operation Code) field specifies the operation to be performed such as add, sub, multiply, shift, complement etc.
+
+**Address :** An address field specify the location of the operand.
+*i.e.* processor register or memory location.
+
+Computers may have instructions of several different lengths containing varying number of address.
+The number of address field in the instruction formate of a computer depends on the internal organization of its registers.
+CPU organisation is of three types based on the number of address fields.
+1. Single Accumulator Organization
+2. General Register Organization
+3. Stack Organization.
+
+>**In first one :** The operation is done for involving a special register called accumulator
+
+>**In Second :** Multiple Register are used for the computer purpose.
+
+>**In Third :** Due to stack based operation it doesn't contain any address field 
+ 
+#### Types of Instruction Formate
+Based on the number of addresser, Instruction are classified as
+- Three-address Instruction Formate.
+- Two-address Instruction FOrmate.
+- One-address Instruction Formate.
+- Zero-address Instruction Formate.
+#### Threee-Address Instruction formate
+- It is done by GRO.
+- It uses set of general purpose register. one of the mostky widely accepted models for machine architecture today.
+- Specifies all operands explicity.
+
+*e.g.*
+| Mode | opcode | Destination | Source 1 | Source 2 |
+| ---- | ------ | ------ | ----- | ---- |
+
+>X = (A + B) * (C + D)
+
+| | |
+| --- | --- |
+**ADD R<sub>1</sub>, A, B** | //R<sub>1</sub> &larr; M[A] + M[B] |
+| **ADD R<sub>2</sub>, C, D** | // R<sub>2</sub> &larr; M[C] + M[D] |
+| **MUL X, R<sub>1</sub>, R<sub>2<sub>** | // M[X] &larr; R<sub>1</sub> * R<sub>2</sub> |
+
+#### Advantages
+- Results in short program.
+- It makes the creation of program easy.
+- It is more efficient
+- It allows more complex operation.
+#### Desadvantages
+- It require more memory space.
+- Instruction become long (many bits)
+- It makes the execution of the program slower.
+#### Two Address Instruction
+- It follows GRO
+- Two addresses are used in instruction when each sepecify either a processor register or a memory operand.
+
+| Mode | opcode | Address 1 | Address 2 |
+| ---- | ----- | ------ | ------ |
+
+*e.g.*
+>X = (A + B) * (C + D)
+| | |
+|--- | --- |
+| MOV R<sub>1</sub>, A | //R<sub>1</sub> &larr; M[A] |
+| ADD R<sub>1</sub>, B | //R<sub>1</sub> &larr; R<sub>1</sub> + M[B] |
+| MOV R<sub>2</sub>, C | //R<sub>2</sub> &larr; M[C] |
+| ADD R<sub>2</sub>, D | //R<sub>2</sub> &larr; R<sub>2</sub> + M[D] |
+| MUL R<sub>1</sub>, R<sub>2</sub> | //R<sub>1</sub> &larr; R<sub>1</sub> * R<sub>2</sub> |
+| MOV X, R<sub>1</sub> | //M[X] &larr; R<sub>1</sub> |
+
+#### One Address Instruction
+- It follow/based on Single Accumulator Organization.
+- All Operations are performed on an implied accumulator register.
+- With one operand implicity in the accumulator register minimizes the internal complexity of the machine and allow for short instructions.
+- The instruction formate uses only one address field *i.e.*,one-address.
+
+| Mode | opcode | Address /Operand |
+| ---- | ----- | ------ |
+
+*e.g.*
+>X = (A + B) * (C + D)
+
+| | |
+| --- | --- |
+| **LOAD A** | // AC &larr; M[A] |
+| **ADD B** | // AC &larr; AC + M[B] |
+| **Store[T]** | // M[T] &larr; AC |
+| **LOAD C** | // AC &larr; M[C] |
+| **ADD D** | // AC &larr; AC + M[D] |
+| **MUL[T]** | // AC &larr; AC * M[T] |
+| **Store X** | // M[X] &larr; AC |
+
+#### Advantages of One-Address
+- It require less memory then two & three address instruction.
+
+#### Disadvantages of One-Address
+- Program length is incresed.
+- It can be slower to execute because it require constant operand fetching & addressing. 
+
+#### Zero Addressing Instruction
+- It is udes in stack Organistion.
+- These instructions or address, they operate on data stored in registers or memory locations impliecietly defined by the instruction.
+- It Simply add the content of two register togather without specify the register name.
+- The Operands are put into the stack & the operations are carried out on the top of the stack (ToS). The operand are implicitly specified on ToS.
+- It doesn't use an address field for the instruction like ADD, MUL etc.
+- PUSH & POP instruction are used t communicate with stack.
+*e.g.*
+> X = (A + B) * (C + D)
+
+> (C + D)[AB + CD + *]
+
+| | |
+| --- | --- |
+| **PUSH A** | // TOS &larr; A |
+| **PUSH B** | // TOS &larr; B |
+| **ADD** | // TOS &larr; A + B |
+| **PUSH C** | // TOS &larr; C |
+| **PUSH D** | // TOS &larr; D |
+| **ADD** | // TOS &larr; C + D |
+| **MUL** | // TOS &larr; (A + B) * (C + D) |
+| **POP** | // M[X] &larr; TOS |
+
+#### Advantages
+- It is simple & can be executed quickly
+- It takes less memory space.
+#### Disadvantages
+- It has limited functionalities & do not allow flexibility in terms of addressing modes or operand types.
+
+## Address Modes
+Addressing mode in computer architecutre refers to the techniques & rules used by processors to calculate the effective Address or operand location for data operation.
+The term adderessing mode refers to the way in which the operand of an instruct is specified.
+
+| :     Types of Adresing Modes     : | |
+| :--------- | :------ |
+| Imlied / Implicit Mode |   No Address fields is required  |
+| Immediate Mode | ^^ |
+| Direct Mode | Address specifies memory location |
+| Indirect Mode | ^^   |
+| Register Direct Mode | Address specifies Process register |
+| Register Indirect Mode | ^^  |
+| Auto-Increment | ^^ |
+| Auto -Decrement | ^^  |
+| Relative Addressing Mode (PC) | Address field + content of CPU Register |
+| Indexed Addressing Mode (IR) | ^^  |
+| Base Register address Mode (BR) | ^^   | |
+[These are called displacement addressing]
+
 
 
 > *📝* **Author:** *Prof. Anjali*
