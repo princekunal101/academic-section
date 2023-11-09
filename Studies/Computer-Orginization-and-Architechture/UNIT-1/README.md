@@ -893,6 +893,40 @@ The term adderessing mode refers to the way in which the operand of an instruct 
 
 - *These are called displacement addressing*
 
+### Implied Addressing Mode
+- Operand are specified implicitly in the definition of the instruction.
+- It is also known as implicit addressing mode
+
+*e.g.*
+- The instruction *'Complement Accumulator'* (MA) is an implied mode instruction
+- In a stack organized computer, zero address instruction are implied mode instruction.
+### Immidiate Addressing Mode (Symbol #)
+- The Operand is specified in the instruction
+- No memory refence to fetch data 
+- Fast but limit range
+
+| Opcode | Operand |
+| --- | ---- |
+
+*e.g.*
+| **ADD 10** | // AC &larr; AC + 10 |
+|----- | ---- |
+| **MOV R#20** | // R &larr; 20 |
+
+### Register Direct Addressing Mode
+- The operand is contained in a register set.
+- The address field of the instruction refers to a CPU register that conatins the operand.
+- No refrence to memory is required to fetch the operand.
+- No memory access, very fast execution, limited address space limited number of registers.
+
+*e.g.*
+| ADD Ax, Bx | Add the content of register Bx to Ax |
+| ---- | ---- |
+
+![register direct addressing mode fig]()
+
+### Register Indirect Mode 
+
 
 
 > *📝* **Author:** *Prof. Anjali*
