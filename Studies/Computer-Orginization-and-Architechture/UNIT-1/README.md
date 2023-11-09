@@ -877,7 +877,7 @@ Based on the number of addresser, Instruction are classified as
 Addressing mode in computer architecutre refers to the techniques & rules used by processors to calculate the effective Address or operand location for data operation.
 The term adderessing mode refers to the way in which the operand of an instruct is specified.
 
-|      Types of Adresing Modes      ||
+|  <td colspan=2>Types of Adresing Modes      ||
 | :--------- | :------ |
 | Imlied / Implicit Mode |   No Address fields is required  |
 | Immediate Mode |^ |
