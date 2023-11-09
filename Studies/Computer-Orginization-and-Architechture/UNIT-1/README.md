@@ -877,19 +877,19 @@ Based on the number of addresser, Instruction are classified as
 Addressing mode in computer architecutre refers to the techniques & rules used by processors to calculate the effective Address or operand location for data operation.
 The term adderessing mode refers to the way in which the operand of an instruct is specified.
 
-| :     Types of Adresing Modes     : ||
+|      Types of Adresing Modes      ||
 | :--------- | :------ |
 | Imlied / Implicit Mode |   No Address fields is required  |
-| Immediate Mode | ^^ |
+| Immediate Mode |^ |
 | Direct Mode | Address specifies memory location |
-| Indirect Mode | ^^   |
+| Indirect Mode |^   |
 | Register Direct Mode | Address specifies Process register |
-| Register Indirect Mode | ^^  |
-| Auto-Increment | ^^ |
-| Auto -Decrement | ^^  |
+| Register Indirect Mode |^  |
+| Auto-Increment |^ |
+| Auto -Decrement |^  |
 | Relative Addressing Mode (PC) | Address field + content of CPU Register |
-| Indexed Addressing Mode (IR) | ^^  |
-| Base Register address Mode (BR) | ^^   ||
+| Indexed Addressing Mode (IR) |^  |
+| Base Register address Mode (BR) |^   |
 | [These are called displacement addressing]
 
 
