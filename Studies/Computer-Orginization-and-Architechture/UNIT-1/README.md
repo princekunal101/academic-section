@@ -744,7 +744,7 @@ A bits of the instructions are divided into group called fields.
 A computer performs a task based on the instruction provided. Instruction in computers comprises group called fields. These fields contain different information for computer everything is in 0,1 so, each field has different significance based on wich a CPU decides what to perform.
 
 The most common fields in instruction formate are &mdash;
-| MOde | opCode | Addressing (operand) |
+| Mode | Opcode | Addressing (Operand) |
 | --- | --- | --- |
 
 **Mode :** A mode field specifies the way the operand or EA (Efective Address) of the operand is determined
@@ -779,12 +779,11 @@ Based on the number of addresser, Instruction are classified as
 - Specifies all operands explicity.
 
 *e.g.*
-| Mode | opcode | Destination | Source 1 | Source 2 |
+| Mode | Opcode | Destination | Source 1 | Source 2 |
 | ---- | ------ | ------ | ----- | ---- |
 
->X = (A + B) * (C + D)
-
-| | |
+ 
+| : X = (A + B) * (C + D) : ||
 | --- | --- |
 **ADD R<sub>1</sub>, A, B** | //R<sub>1</sub> &larr; M[A] + M[B] |
 | **ADD R<sub>2</sub>, C, D** | // R<sub>2</sub> &larr; M[C] + M[D] |
@@ -808,6 +807,7 @@ Based on the number of addresser, Instruction are classified as
 
 *e.g.*
 >X = (A + B) * (C + D)
+
 | | |
 |--- | --- |
 | MOV R<sub>1</sub>, A | //R<sub>1</sub> &larr; M[A] |
@@ -823,13 +823,12 @@ Based on the number of addresser, Instruction are classified as
 - With one operand implicity in the accumulator register minimizes the internal complexity of the machine and allow for short instructions.
 - The instruction formate uses only one address field *i.e.*,one-address.
 
-| Mode | opcode | Address /Operand |
+| Mode | Opcode | Address /Operand |
 | ---- | ----- | ------ |
 
 *e.g.*
->X = (A + B) * (C + D)
 
-| | |
+|: X = (A + B) * (C + D) : ||
 | --- | --- |
 | **LOAD A** | // AC &larr; M[A] |
 | **ADD B** | // AC &larr; AC + M[B] |
@@ -856,9 +855,8 @@ Based on the number of addresser, Instruction are classified as
 *e.g.*
 > X = (A + B) * (C + D)
 
-> (C + D)[AB + CD + *]
 
-| | |
+| : (C + D)[AB + CD + *] : ||
 | --- | --- |
 | **PUSH A** | // TOS &larr; A |
 | **PUSH B** | // TOS &larr; B |
@@ -879,7 +877,7 @@ Based on the number of addresser, Instruction are classified as
 Addressing mode in computer architecutre refers to the techniques & rules used by processors to calculate the effective Address or operand location for data operation.
 The term adderessing mode refers to the way in which the operand of an instruct is specified.
 
-| :     Types of Adresing Modes     : | |
+| :     Types of Adresing Modes     : ||
 | :--------- | :------ |
 | Imlied / Implicit Mode |   No Address fields is required  |
 | Immediate Mode | ^^ |
@@ -891,8 +889,8 @@ The term adderessing mode refers to the way in which the operand of an instruct 
 | Auto -Decrement | ^^  |
 | Relative Addressing Mode (PC) | Address field + content of CPU Register |
 | Indexed Addressing Mode (IR) | ^^  |
-| Base Register address Mode (BR) | ^^   | |
-[These are called displacement addressing]
+| Base Register address Mode (BR) | ^^   ||
+| [These are called displacement addressing]
 
 
 
