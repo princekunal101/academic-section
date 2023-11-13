@@ -1025,13 +1025,13 @@ The base Register addressing mode is used in complete to facilitate the relocati
 
 **Given:**
 
-| Instruction | Effective Address (EA) | Content of EA |
-| --------- | :------: | :------: |
-| **a.** Direct |      400  ||
-| **b.** Immediate |    301 ||
-| **c.** Relative  |  200 ||
-| **d.** Register Indirect | 600 ||
-| **e.** Index with R<sub>1</sub> as the index Register. | 200 | 302 |
+| | Instruction | Effective Address (EA) | Content of EA |
+| ---- | --------- | :------: | :------: |
+| **a.**| Direct |      400  ||
+| **b.**| Immediate |    301 ||
+| **c.**| Relative  |  200 ||
+| **d.**| Register Indirect | 600 ||
+| **e.**| Index with R<sub>1</sub> as the index Register. | 200 | 302 |
 
 ![Address regiser fig.]()
 
