@@ -926,6 +926,140 @@ The term adderessing mode refers to the way in which the operand of an instruct 
 ![register direct addressing mode fig]()
 
 ### Register Indirect Mode 
+The address field of the instruction refers to a CPU register that contains the EA (Effective Address) of the operand.
+#### Effective Address 
+EA is a term that describes the address of an operand that is stored in the memory.
+Only one refence to memory is reuired to fetch the operand
+
+![effective address refister fig.]()
+
+*e.g.* 
+> MOV[R<sub>1</sub>] , R<sub>2</sub>
+
+- Value of R<sub>3</sub> is moved to the memory loacation specified in R<sub>1</sub>
+- EA = R
+- Operand is in memory cell pointed to by contents of register R.
+
+
+### Direct Addressing Mode
+It is also known as absolute addressing mode. The address field of the instruction contains the EA of the operand. The operand resides in memory & its address is given directly by the address field of the instruction.
+
+![direct addressing mode fig.]()
+
+*e.g.*
+>ADD A
+
+- Add contents of cell A to the accumulqator.
+- Single memory refernce to access datga.
+- No additonal Calculations for EA.
+- Limited Address space.
+
+### Indirect Addressing Mode
+In this, mode the address field of the instruction gives the address where the EA is stored in memory.
+Control fetches the instruction from memory & uses its address part to access memory again to read the EA.
+It maybe nested, multilevel or cascaded.
+Multiple memory accesses to find operand, hence it is slower.
+
+![indirect addressing mode fig]()
+
+*e.g.*
+>AC &larr; AC + [X]
+
+ADD[X] will indirect the value stored int he accumulator by the value sored atmemory location specified by X.
+> EA = Address part of instruction + content of CPU Register.
+
+#### Auto Increment Addressing Mode
+These are similar to register Indirect AM (Addressing Mode) except that the register is incremented after its value is located at another location like accumulator.
+
+**EA = R** 
+
+![auto increment AM fig.]()
+after loading R<sub>1</sub> is incremented by 1. It becomes 401.
+
+#### Auto Decrement Addressing Mode
+It is reverse of Auto increment, as in it the register is decrement before the execution of the instruction.
+
+**EA = (R) - 1**
+
+![auto decrement AM fig.]()
+
+#### Relative Addressing Mode
+In this mode, the contents of Program counter is added to the address part of instruction to obtain the EA.
+
+**EA = A + PC**
+
+![relative AM fig]()
+
+- Program Counter (PC) always contains the address of the next instruction to be executed.
+- After fetchong the addressing of the instruction the value of program counter immediately increases.
+
+### Index Register Addressing Mode
+In it, content of Index Register is added to direct address part of instruct  to obtain the EA.
+
+![index register AM fig.]()
+
+### Base Register Addressing Mode
+In this, the content of a Base Register is added to the address part of the instruction to obtain the effective address.
+A base register is assumed to hold a base address & the address field of the instruction gives a displacement relative to this base address.
+The base Register addressing mode is used in complete to facilitate the relocation of programs in memory.
+
+![Base register AM fig.]()
+
+![Address register block fig.]()
+
+
+| Addressing Mode | Effective Address (EA) | Content of Effective Address (EA) |
+| ------- | -------: | ------: |
+| Direct | 100 | 105 |
+| Immediate | &mdash; | 100 |
+| Indirect | 105 | 500 |
+| Relative | 152 | 70 |
+| Index | 103 | 65 |
+| Register Direct | &mdash; | 98 |
+| Register Indirect | 98 | 700 |
+| Auto - increment | *100* 101 | *105* 35 |
+| Auto - decremnet | 100 *99* | 105 *800* |
+
+## Questions
+1. An instruction is stored at location 300 with its address field at local 301. The address field has the value 400. A processor Register R<sub>1</sub> contains the number 200. Evalute the Effective address if the addressing mode of the instruction is.
+
+**Given:**
+
+| Instruction | Effective Address (EA) | Content of EA |
+| --------- | :------: | :------: |
+| **a.** Direct |      400  ||
+| **b.** Immediate |    301 ||
+| **c.** Relative  |  200 ||
+| **d.** Register Indirect | 600 ||
+| **e.** Index with R<sub>1</sub> as the index Register. | 200 | 302 |
+
+![Address regiser fig.]()
+
+- In direct address mode, the effective address is the address part of the instruction, 400.
+- In immediate mode, the second woed of the instruction is taken as the operand rather than an address The EA is 301.
+- In Register indirect Mode, the EA is 200, which is the content of R<sub>2</sub>.
+- In Relative address mode, hte EA (Effective Address) is the 400 + 302 = 702.
+- PC + Address = Register Address 
+
+- In Index Register, the index value of the register is added to the address part.
+- EA = XR + Address
+- = 200 + 400 = 600
+
+2. ![question no. 2 fig.]()
+
+
+| Addressing Mode | Effective Address (EA) | Content of EA |
+| ----------- | :-------: | :--------: |
+| Immediate | 201 | 500 |
+| Direct | 500 | 800 |
+| Indirect  | 800 | 300 |
+| Register Direct | &mdash; | 400 |
+| Register Indirect | 400 | 700 |
+| Relative | 702 | 325 |
+| Index Register | 600 | 900 |
+| Base Register | 900 | 150 |
+| Auto increment | 400 | 700 |
+| Auto decrement | 399 | 450 |
 
 
 
