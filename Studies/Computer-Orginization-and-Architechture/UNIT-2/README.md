@@ -490,8 +490,8 @@ Binary Represenation of *E'* = **(10001001)<sub>2</sub>**
     - *0.50 x 2 = 1.00* = **1** &darr;
     - *0.0 x 2 = 0* = **0** &darr;
     - *(0.75)* = **(0.110)<sub>2</sub>**
-- *(21.75)<sub>10</sub> = (10101.11)<sub>2</sub>
-*Normalize* = **1.010111 x 2<sup>4</sup>
+- *(21.75)<sub>10</sub>* = (10101.11)<sub>2</sub>
+*Normalize* = **1.010111 x 2<sup>4</sup>**
 
 **Single Precision&mdash;**
 - *s* = **0**
@@ -511,6 +511,7 @@ Binary Represenation of *E'* = **(10001001)<sub>2</sub>**
 - *M* = **010111**
 - *E' - 127* = **E**
 - *E* = **137 - 127**= **4**
+
 | E = 4 |
 | --- |
 
