@@ -31,7 +31,7 @@
     - For reducing the carry propagation delay time by using faster gates with reduced delay.
     - The *'look ahead carry'* utilises logic gates to look at the lower-order bits of the augent & addes to see if a higher order carry is to be generated.
     - It uses two function &mdash;
-        - carry generator (Gi)
+        - Carry generator (Gi)
         - Carry Propagate (Pi)
 ### Full adder Circuit with Pi & Gi
 ![full adder circit diagram]()
@@ -58,23 +58,23 @@ We can write two function &mdash;
 - carry generator (Gi)
 - Carry propagation (Pi)
 
- *Pi = Ai &oplus; Bi*  ------------------- &#9312;
+ *Pi = Ai &oplus; Bi*  ---------------------- &#9312;
  
  *Gi = Ai &middot; Bi* ---------------------- &#9313;
 
 The output sum (Si) and carry (Ci+) can be expressed as &mdash;
 
-*Si = Pi &oplus; Ci* ----------------- &#9314;
+*Si = Pi &oplus; Ci* ------------------------ &#9314;
 
-*Ci+1 = Gi + PiCi* ----------------- &#9315;
+*Ci+1 = Gi + PiCi* -------------------------- &#9315;
 
 For four *(4-bit)* binary addition, we can write the carry output as follows by using equetion &#9315;
 
 for **i=0**, 
 
-Ci + 1 = Gi + PiCi
+*Ci + 1 = Gi + PiCi*
 
-C<sub>0 + 1 </sub> = G<sub>0</sub> + P<sub>0</sub>C<sub>0</sub>
+*C<sub>0 + 1 </sub> = G<sub>0</sub> + P<sub>0</sub>C<sub>0</sub>*
 
 C<sub>1</sub> = G<sub>0</sub> + P<sub>0</sub>C<sub>0</sub>
 | C<sub>1</sub> = G<sub>0</sub> + P<sub>0</sub>C<sub>0</sub> |
@@ -82,18 +82,18 @@ C<sub>1</sub> = G<sub>0</sub> + P<sub>0</sub>C<sub>0</sub>
 
 for **i=1**, 
 
-C<sub>2</sub> = G<sub>1</sub> + P<sub>1</sub>C<sub>1</sub>
+*C<sub>2</sub> = G<sub>1</sub> + P<sub>1</sub>C<sub>1</sub>*
  
- = G<sub>1</sub> + P<sub>1</sub>(G<sub>0</sub> + P<sub>0</sub>C<sub>0</sub>) *[By putting C<sub>1</sub> Value]*
+ *= G<sub>1</sub> + P<sub>1</sub>(G<sub>0</sub> + P<sub>0</sub>C<sub>0</sub>) **[By putting C<sub>1</sub> Value]***
  | C<sub>2</sub> = G<sub>1</sub> + P<sub>1</sub>G<sub>0</sub> + P<sub>0</sub>P<sub>1</sub>C<sub>0</sub> |
  | ----- | 
 
 
 for **i=2**, 
 
-C<sub>3</sub> = G<sub>2</sub> + P<sub>2</sub>C<sub>2</sub>
+*C<sub>3</sub> = G<sub>2</sub> + P<sub>2</sub>C<sub>2</sub>*
  
- = G<sub>2</sub> + P<sub>2</sub>(G<sub>1</sub> + P<sub>1</sub>G<sub>0</sub> + P<sub>1</sub>P<sub>0</sub>C<sub>0</sub>) 
+ *= G<sub>2</sub> + P<sub>2</sub>(G<sub>1</sub> + P<sub>1</sub>G<sub>0</sub> + P<sub>1</sub>P<sub>0</sub>C<sub>0</sub>)* 
  | C<sub>3</sub> = G<sub>2</sub> + P<sub>2</sub>G<sub>1</sub> + P<sub>2</sub>P<sub>1</sub>G<sub>0</sub> + P<sub>2</sub>P<sub>1</sub>P<sub>0</sub>C<sub>0</sub> |
  | ----- | 
  
@@ -101,9 +101,9 @@ C<sub>3</sub> = G<sub>2</sub> + P<sub>2</sub>C<sub>2</sub>
 
 for **i=3**, 
 
-C<sub>4</sub> = G<sub>3</sub> + P<sub>3</sub>C<sub>3</sub>
+*C<sub>4</sub> = G<sub>3</sub> + P<sub>3</sub>C<sub>3</sub>*
  
- = G<sub>3</sub> + P<sub>3</sub>(G<sub>2</sub> + P<sub>2</sub>G<sub>1</sub> + P<sub>1</sub>G<sub>0</sub> + P<sub>1</sub>P<sub>0</sub>C<sub>0</sub>) 
+ *= G<sub>3</sub> + P<sub>3</sub>(G<sub>2</sub> + P<sub>2</sub>G<sub>1</sub> + P<sub>1</sub>G<sub>0</sub> + P<sub>1</sub>P<sub>0</sub>C<sub>0</sub>)* 
  | C<sub>4</sub> = G<sub>3</sub> + P<sub>3</sub>G<sub>2</sub> + P<sub>3</sub>P<sub>2</sub>G<sub>1</sub> + P<sub>3</sub>P<sub>2</sub>P<sub>1</sub>G<sub>0</sub> P<sub>3</sub>P<sub>2</sub>P<sub>1</sub>P<sub>0</sub>C<sub>0</sub> |
  | ----- | 
  
@@ -122,32 +122,33 @@ C<sub>4</sub> = G<sub>3</sub> + P<sub>3</sub>C<sub>3</sub>
 ### Signed Integer or Binary Number Repersentation
 In computer we have only binary digits '0' & '1' and these number or symbol ued to represent +ve & -ve numbers.
 It *n-bit* of signed binary number, *one-bit* is reserved to indicate +ve or -ve values and the remaining bits are magnitued.
-If-MSB is '0' indicated that no is +ve.
-If-Msb is '1' indicates that number is -ve.
+If *MSB* is '**0**' indicated that no is **+ve**.
+If *MSB* is '**1**' indicates that number is **-ve**.
 
 Conversition to repersent signed binary number &mdash;
 - Sign magnitued repersentaion
 - 1's complement repersentation
 - 2's complement repersentation
 
-### SIgn Magnitued Repersentation
+### Sign Magnitued Repersentation
 For n bit word, the right most(n-1) bits hold magnitude of the integer number
-- Msb for Sign nit
-    - if '0' then number is +ve
-    - if '1' then number is -ve
+- MSB for Sign bit
+    - if **'0'** then number is **+ve**
+    - if **'1'** then number is **-ve**
 
 **For Example**
-- +6 in 8-bit representaion *00000110*
-- -6 in 8-bit repersenation *10000110*
-- +8 in 8-bit repersenation *00001000*
-- -7 in 8-bit repersenation *10000111*
+- **+6** in 8-bit representaion *00000110*
+- **-6** in 8-bit repersenation *10000110*
+- **+8** in 8-bit repersenation *00001000*
+- **-7** in 8-bit repersenation *10000111*
 
 #### Disadvantage
-- +0 *00000000*
-- -0 *10000000*
+- **+0** *00000000*
+- **-0** *10000000*
 
 ### 1's Complement
-1's complement of a binary number is obtained by changing each *0* to *1* & each *1* to *0*
+1's complement of a binary number is obtained by changing each **0** to *1* & each **1** to *0*
+
 ![signbit fig]()
 
 *e.g.*
@@ -171,14 +172,14 @@ The following factors should be taken into account &mdash;
 - The cost of harware require to store and process the number.
 
 #### Two formats for repersentaion &mdash;
-- fixed- point
-- floating- point
+- Fixed- point
+- Floating- point
      
 #### Fixed - Point Repersentaion
 - It allow a limited range of values and also require less harware for processing.
 - If radix point is fixed, the number system is refferred to as point number system.
 
-**Type**
+**Type-**
 - Signed integer Repersentaion unsigned integer
 - Unsigned integer number repersent positive number.
 
@@ -197,7 +198,7 @@ Multiplication of two fixed point binary number in signed magnitude repersenatat
          1101xxx
         ---------
         10001111
-**(10001111)<sub>2</sub>** = *143*
+**(10001111)<sub>2</sub>** = *(143)<sub>10</sub>*
 
 - In the multiplication process we are considering successive bits of the multiplier, least significant bit first.
 - If the multiplier bit is 1, the multiplicand is copied down else 0's are copied down.
