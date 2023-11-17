@@ -60,13 +60,13 @@ We can write two function &mdash;
 
  *Pi = Ai &oplus; Bi*  ---------------------- &#9312;
  
- *Gi = Ai &middot; Bi* ---------------------- &#9313;
+ *Gi = Ai &middot; Bi* ----------------------- &#9313;
 
 The output sum (Si) and carry (Ci+) can be expressed as &mdash;
 
-*Si = Pi &oplus; Ci* ------------------------ &#9314;
+*Si = Pi &oplus; Ci* ---------------------- &#9314;
 
-*Ci+1 = Gi + PiCi* -------------------------- &#9315;
+*Ci+1 = Gi + PiCi* --------------- &#9315;
 
 For four *(4-bit)* binary addition, we can write the carry output as follows by using equetion &#9315;
 
