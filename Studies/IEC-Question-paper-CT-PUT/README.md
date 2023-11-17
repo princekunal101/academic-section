@@ -1,4 +1,4 @@
-# IEC College of Enginearing & Technology 
+# IEC College of Engineering & Technology 
 ## Questions (CT & PUT).
 ## Third Semester 2023-24
 #### CT - 01 (2023-24)
