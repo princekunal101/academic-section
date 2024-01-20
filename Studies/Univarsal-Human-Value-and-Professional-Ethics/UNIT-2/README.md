@@ -289,42 +289,34 @@ Self discipline refers to the ability to train our body, mind, emotions and spir
 If a person has will power and is disciplined, he/she gains control over his/her actions. Thus he/she 
 can choose his/her behaviour and reactions, instead of being ruled by them. 
  
-#### Q 23. What are the programs for ensuring the health of the body? Explain.  	What are the programs to take care of the body? Explain. 
-Suggest programms to ensure proper functioning of your body. Can we sustain them without 
- 	right understanding? (MTU 2010 – 11) 
+#### Q 23. What are the programs for ensuring the health of the body? Explain.  	What are the programs to take care of the body? Explain. Suggest programms to ensure proper functioning of your body. Can we sustain them without right understanding? (MTU 2010 – 11) 
 ANS. Our present lifestyle and conditionings are not very conductive to keep the body fit and therefore it is important to understand sanyama and swasthya correctly and maintain proper harmony with the body. As a proposal, we need to work f or the following few things 
-1.	To understand and live with sanyama. 
-2.	To understand the self organization of the body and ensure health of the body. 
+	
+	1.	To understand and live with sanyama. 
+	2.	To understand the self organization of the body and ensure health of the body. 
 1. Understanding and Living with Sanyama : Sanyama implies that the self takes the responsibility for proper nurturing, and right utilization of the body. For this it is essential to understand the functioning of the body instrument. It is also essential to understand that this instrument has a limited life span and undergoes a pattern of growth and decay. The interaction of the self with the body has to be in 
  	consonance with the above objectives which are achieved through sanyama. 2.  Understanding the self organization of the body and ensure health of the body: 
 23 
-a.	Nurturing of the Body: Proper Food, Air, Water, Etc.: In the process of selecting food for the body, I need to make out the elements which make a complete food so that it gives required nutrients and energy to the body. On the basis of understanding of the harmony of the self with the body, it can be said that the food needs to be eaten only when we feel hungry. The choice of the food has to be such that it is easily digestible and the food needs to be taken with proper posture of  the body and in right quantity. 
-b.	Protection of the Body: The second issue is the protection of the body. The clothes we choose for protection need to be such that they ensure proper interaction of the body with the environment. 
+
+**a.	Nurturing of the Body:** Proper Food, Air, Water, Etc.: In the process of selecting food for the body, I need to make out the elements which make a complete food so that it gives required nutrients and energy to the body. On the basis of understanding of the harmony of the self with the body, it can be said that the food needs to be eaten only when we feel hungry. The choice of the food has to be such that it is easily digestible and the food needs to be taken with proper posture of  the body and in right quantity. 
+
+**b.	Protection of the Body:** The second issue is the protection of the body. The clothes we choose for protection need to be such that they ensure proper interaction of the body with the environment. 
 The right amount of exposure of the body to the air, water, and sun is required to ensure its proper  	functioning. 
-c.	Right Utilization of the Body (Sadupayoga): Right utilization of the body as an instrument necessitates understanding the purpose for which this instrument is to be used. Normally, we tend to believe that the body is an instrument for sensory enjoyment, which is not correct. We also happen to use our body to exploit other human beings or rest of the nature which is not right utilization. It is important to realize that the human body is an instrument to facilitate right understanding and its actualization in life. 
+
+**c.	Right Utilization of the Body (Sadupayoga):** Right utilization of the body as an instrument necessitates understanding the purpose for which this instrument is to be used. Normally, we tend to believe that the body is an instrument for sensory enjoyment, which is not correct. We also happen to use our body to exploit other human beings or rest of the nature which is not right utilization. It is important to realize that the human body is an instrument to facilitate right understanding and its actualization in life. 
  
-#### Q 24. How are sanyama and svasthya related? 
-Define sanyama and svasthya. How are the two related? 
-Write a short note on developing ‘self control’ and ensuring a healthy life. What is sanyam? How is it necessary in ensuring svasthya? 
- 	What is swasthya? How does 'I' affect the body in performing its functions? 
-Define Sanyam and Swasthya. How are they helpful in keeping harmony between self and 
- 	body. (UPTU 2011 – 12) 
+#### Q 24. How are sanyama and svasthya related? Define sanyama and svasthya. How are the two related? Write a short note on developing ‘self control’ and ensuring a healthy life. What is sanyam? How is it necessary in ensuring svasthya? What is swasthya? How does 'I' affect the body in performing its functions? Define Sanyam and Swasthya. How are they helpful in keeping harmony between self and body. (UPTU 2011 – 12) 
 ANS. Sanyama means the feeling of responsibility in the self (I) for nurturing, protection and right utilization of the body. Self control or sanyama is the control of the mind and its desires, urges, emotions and delusions. It is controlling the outgoing tendencies of the mind and the senses and bringing them back to our self within. Swasthya is the condition of the body where every part of the body is performing its expected function. The word swasthya literally means being anchored to the self, being in close harmony with the self. In other words, swasthya, in Sanskrit means self– dependence (swa = your own). Also, embedded in its meaning are health, sound state, comfort and satisfaction. So we can say that sanyam ensures swasthya. 
  
 With right understanding, I get self-organized and take care of the body properly. With lack of right understanding, I am able to do it and the body becomes unhealthy. With right understanding and right feelings, the body gets favourably affected. For example; when I am happy, the temperature and pressure in the body are normal, when I am angry or tense, they get upset. It means if I am in disharmony, say in anger or stress or despair, it immediately starts affecting the body adversely. There are many diseases of the body that are caused due to disharmony in ‘I’. These are called psychosomatic disease, such as asthma, allergies, migraine, diabetes, hypertension etc. so we can say that sanyam has a strong effect on swasthya. 
  
-#### Q 25. What is the responsibility of the self towards the body? How is it fulfilled? 	 
-How does the feeling of sanyama facilitate the correct appraisal of our physical needs? Suggest any two programs that you can undertake to improve the health of your body. 
- 	How can we ensure the health of the body? Explain.  	In what way does self control help us?  
-How does the feeling of sanyam ensure health of the body? List two programs of sanyam. (UPTU 
- 	2010 – 11) 
-Explain the relation between the self and the body. What is the responsibility of the self towards  	the body? (UPTU 2009-10) 
-What do you mean by Sanyam? How does it ensure harmony with the body? Explain. (UPTU 2011 – 12) 
+#### Q 25. What is the responsibility of the self towards the body? How is it fulfilled? 	 How does the feeling of sanyama facilitate the correct appraisal of our physical needs? Suggest any two programs that you can undertake to improve the health of your body. How can we ensure the health of the body? Explain.  	In what way does self control help us?  How does the feeling of sanyam ensure health of the body? List two programs of sanyam. (UPTU 2010 – 11) Explain the relation between the self and the body. What is the responsibility of the self towards  	the body? (UPTU 2009-10) What do you mean by Sanyam? How does it ensure harmony with the body? Explain. (UPTU 2011 – 12) 
   
 ANS. The self has the responsibility for nurturing, protection and right utilization of the body. For this self has to follow some programs. We need to work to understand the self organization of the body and ensure health of the body. 	 
 Nurturing of the Body: 	 
 Proper Food, Air, Water, Etc.: In the process of selecting food for the body, I need to make out the elements which make a complete food so that it gives required nutrients and energy to the body. On the basis of understanding of the harmony of the self with the body, it can be said that the food needs to be eaten only when we feel hungry. The choice of the food has to be such that it is easily digestible and the food needs to be taken with proper postur e of the body and in right quantity. Protection of the Body: 	 
-The second issue is the protection of the body. The clothes we choose for protection need to be such that they ensure proper interaction of the body with the environment. The right amount of exposure of the body to the air, water, and sun is required to ensure its proper functioning. To ensure the heath of the Body, we need to take care of the following- i) Ahar-Vihar, ii) Shram- Vyayam, iii) Asana-Pranayam and iv) Aushadhi -Chikitsa. We have already discussed about Ahar (Food), let us now discuss about the others: 
+The second issue is the protection of the body. The clothes we choose for protection need to be such that they ensure proper interaction of the body with the environment. The right amount of exposure of the body to the air, water, and sun is required to ensure its proper functioning. To ensure the heath of the Body, we need to take care of the following- 
+**i)** Ahar-Vihar, **ii)** Shram- Vyayam, **iii)** Asana-Pranayam and **iv)** Aushadhi -Chikitsa. We have already discussed about Ahar (Food), let us now discuss about the others: 
 1.	Proper upkeep (Vihar) of the Body: When we work, the Body gets tired. When we take rest, the Body becomes fit to work. But again, there is a limit to the amount of work and rest we need. We also need to ensure proper time, posture and ways to work and to rest. We need to provide hygienic conditions for proper functioning of the Body. These issues are included in the upkeep of the Body. 	 
 2.	Labour: Labour is another requirement. It means employing the body physically for production and maintenance of physical facilities. The labour we do helps each part of the Body to function properly. 	 
 3.	Physical Exercises: We are aware of physical exercises. While doing labour, some parts of the Body may get stressed much while others may not get employed to that extent. With exercises, we can employ all the parts of the Body in the desired way. 	 
