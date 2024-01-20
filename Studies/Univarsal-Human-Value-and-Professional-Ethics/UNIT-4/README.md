@@ -1,7 +1,7 @@
 ## UNIT-4
 
 
-Q 1. Define harmony in nature. OR 	 Explain the harmony in nature. 
+#### Q 1. Define harmony in nature. OR 	 Explain the harmony in nature. 
 ANS. The aggregate of all the mutually interacting units – big or small, sentient or insentient together can be called nature. These units are infinite in number and we could easily observe that there exists a dynamic balance, self regulation among all these units. This self regulation is harmony or balance in nature. The law of nature has a unique cause and effect system which must be understood in order to be in harmony with the natural law of things. 	 
  	Natural harmony is necessary for the following reasons: 
 1.	Natural harmony is necessary to solve the problem of global warming and depletion of non-renewable  	natural resource can be aboided. 
@@ -10,7 +10,7 @@ ANS. The aggregate of all the mutually interacting units – big or small, senti
 3.	It is possible to achieve natural harmony in the establishment, maintenance and management of  	educational institution like schools, colleges and universities. 
 4.	One can understand the depths of harmony and alignment in natural by contemplating and reflecting upon the natural order. It is possible to unravel the mystery of the natural systhesis in the midst of ongoing chaos at the material plane. 
  
-Q 2. What do you mean by co 	-existence? 
+#### Q 2. What do you mean by co 	-existence? 
 ANS. Co-existence in nature means there is a relationship and complementarity among all the entities in nature including human beings. Co-existence is a state in which two or more groups are living together while respecting their differences and resolving their conflicts non-violently. Co-existence has been defined in numerous ways: 
 1.	To exist together (in time or space) and to exist in mutual tolerance. 
 2.	To learn to recognize and live with difference. 
@@ -18,7 +18,7 @@ ANS. Co-existence in nature means there is a relationship and complementarity am
 4.	To exist together (in time or place) and to exist in mutual tolerance. 
 The world is full of Diversity – there are different nations, cultures, religions, communities, languages, and beliefs. The beauty of existence can only be maximized if everything in this world is in harmony. Peaceful, symbiotic co-existence is the key to harmony in the world. 
  
-Q 3. Define the terms Gathansheel, Gathanpurna, Kriyapurnata and Acharanpurnata. 	 
+#### Q 3. Define the terms Gathansheel, Gathanpurna, Kriyapurnata and Acharanpurnata. 	 
 Explain ‘Existence is Gathansheel and Gathanpurna and also there is Kriyapurnata and 
 Acharanpurnata in existence’. ANS 	. 
 Gathansheel: The material units are transformable, and their composition keeps on changing, hence these are gathansheel. 	 
@@ -33,20 +33,20 @@ with the human body becomes the human order.
 Completion of right understanding in human being is called kriyapurnata and ability to live with complete understanding is called  	acharanpurnata. 
  
  
-Q 4. What is sanskaar? Explain its effects or the conformance of the human order 	. 
+#### Q 4. What is sanskaar? Explain its effects or the conformance of the human order 	. 
 ANS. Sanskaar means the values that a person gets at the time of his upbringing. We can see that we humans are not according to our lineage or race, as in animals. We may pick up something from our parents as we grow up, but we are usually very different in many ways from them. We humans are according to our imagination; according to our desires, thoughts and selection in ‘I’. the desires, thoughts and selections we have in ‘I’ can come from anywhere. It can come from past memories, it can come from our parents, the environment, the media, anywhere. In the case of humans, we can say ‘as the education, so the human’. We are according to our desires, thoughts and selections. Together, we call these ‘sanskara’. Hence, we say that a  human being comforms to his or her sanskar or has ‘sanskaar conformance’. 
 Order 	Things 	Conformance 
 Human order 	Human beings 	Right values / sanskara conformance 
  	 	 
-Q 5. What exactly is implied by the term 	- ‘nature’? Explain. OR Define nature. 
+#### Q 5. What exactly is implied by the term 	- ‘nature’? Explain. OR Define nature. 
 ANS. All the physical objects that are in solid, liquide or gas state eighter living or non living, collectively termed as nature. In other words, the aggregate of all the mutually interacting units – big or small, sentient or insentient together can be called nature. These units are infinte in number and we could easily observe that there exists a dynamic balance, self regulation among all these units. There are four orders of nature: 	 
  Material order  Animal order  Pranic order  Human order 
  
  
-Q 6. "As the seed, thus the plant". Explain. 	 
+#### Q 6. "As the seed, thus the plant". Explain. 	 
 ANS. As the seed, thus the plant, it means in plant order there is a seed conformance. The plant grown from a seed will have the same qualities that were present in the seed. A neem seed will always sprout a neem plant. All of us know this. Its fruits, its leaves, the taste of the leaves, the colour of the leaves, all this information, this basic information of every neem plant is stored in the seed. Thus, we say the plant is always as the seed, or we can say, ‘as the seed, thus the plant’. Hence, we say that a plant conforms to the seed, or has ‘seed comformance’. This ‘seed comformance’ method is the mechanism by means of which the continuity of a plant species is mentained in nature/existence. 
  
-Q 7. What do you mean by ‘innateness’? What is the innateness in the four orders? (MTU 2011 – 12)  What do you understand by the term ‘innateness’ (dhaarna) in nature? Explain the innatenss  of material and animal order in nature. (MTU 2011 – 12 even) 
+#### Q 7. What do you mean by ‘innateness’? What is the innateness in the four orders? (MTU 2011 – 12)  What do you understand by the term ‘innateness’ (dhaarna) in nature? Explain the innatenss  of material and animal order in nature. (MTU 2011 – 12 even) 
 ANS. Innateness (dharana) : Innateness means qualities which are innate to the unit. Each unit in existence exhibits an innateness, an intrinsic quality that cannot be seperated from it. We refer this priciple as innateness also called dharna of that unit. This is inrinsic to the unit. 	 
 Material order   When we burn coal and it has finished burning and only some ash is left and smokes have gone out, it is not that the basic material, the fundamental particles in coal, have ‘cease to exist’ or ‘disappeared’ from existence. They may not be visible to the eye at that moment, but they continue to exist, they still are in the form of other matter or in the form of gases, etc. This is there with all material units. We cannot destroy matter, we can only convert it from one form to the other. Thus, “to exist”, or ‘existence’ is intrinsic to all material, it is innate to it. We cannot separate the ‘existence’ of a 
  	thing from the thing itself. 
@@ -62,7 +62,7 @@ Human order
  	Human beings 
  	(Exisetence + growth) in body + will to live with happiness in ‘I’ 
  	 
-Q 8. What is the svabhava (natural characteristic) of a unit? Elaborate on the svabhava of a human  	order. 
+#### Q 8. What is the svabhava (natural characteristic) of a unit? Elaborate on the svabhava of a human  	order. 
 How does the natural characteristics (svabhava) of material order helped man to lead a better  	life? 
  	Explain the svabhav of human order and how it helps in living with harmony. 
 Explain the natural characteristics of the material and pranic orders. Give examples. (UPTU 
@@ -88,14 +88,14 @@ Human order
  	(Composition / decomposition, nurture / worsen) in body 
 + (perceverance, bravery, generosity) in ‘I’ 
  
-Q 9. Define harmony in nature and why is it important. Explain with examples. 	 
+#### Q 9. Define harmony in nature and why is it important. Explain with examples. 	 
 ANS. If one is to enjoy the benefit of life to the fullest, it is necessary to develop and maintain harmony. The law of nature has a unique cause and effect system which must be understood in order to be in harmony with the natural law of things. Natural harmony is necessary for the following reasons: 	 
 1.	To solve the problem of global warming and depletion of non-renewable natural resource can be avoided. 
 2.	With trees cure all problems like – reduction of wind velocity, energy savings, doing companion planting,  	development of an eco-subsystem in terms of establishing a forest garden, reduction of building heat. 
 3.	One can understand the depths of harmony and alignment in natural by contemplating and reflecting upon the natural order. It is possible to unravel the mystery of the natural synthesis in the midst of ongoing chaos at the material plane. 
 First of all we have to understand the importance of nature for our existence then we have to understand our responsibility towards nature. When we take from nature, we should also plan to give back to it. This is possible. Renewable energy sources, such as solar power and wind, are perhaps the best methods to begin moving in this direction. There can be harmony only if each subsystem of the entire creation can strike a mutually satisfying relationship with every subsystem without disturbing the other’s peaceful existence and without hindering its own growth. 
  
-Q 10. Define harmony in nature and how will you create it. Explain with examples. 	 
+#### Q 10. Define harmony in nature and how will you create it. Explain with examples. 	 
 ANS. Combination of all that is in solid, liquid or gas state is called as nature. In other words, the aggregate of all the mutually interacting units – big or small, sentient or insentient together can be called nature. These units are infinite in number and we could easily observe that there exists a dynamic balance, self regulation among all these units. 	 
 The law of nature has a unique cause and effect system which must be understood in order to be in harmony with the natural law of things. Natural harmony is necessary for the following reasons: 	 
 1.	Natural harmony is necessary to solve the problem of global warming and depletion of non-renewable  	natural resource can be avoided. 
@@ -106,7 +106,7 @@ The law of nature has a unique cause and effect system which must be understood 
  	chaos at the material plane. 
 5.	To create harmony in nature, first of all we have to work in the direction of development of mankind from animal consciousness to human consciousness. And this entails working for the right understanding. 
  
-Q 11. What are the four orders of nature? Briefly explain them. 	 
+#### Q 11. What are the four orders of nature? Briefly explain them. 	 
 ANS. All the physical objects that are in solid, liquide or gas state eighter living or non living, collectively termed as nature. In other words, the aggregate of all the mutually interacting units – big or small, sentient or insentient together can be called nature. These units are infinte in number and we could easily observe that there exists a dynamic balance, s elf regulation among all these units. There are four orders of nature: 
 Material order  The big land mass of the continents, gigantic water bodies like ocean and seas, mountains and rivers, the atmosphere above, the heaps of metals and mineral below, the dense gases and fossil fuels deep below the surface of the earth – all fall into the material order or padartha avastha. In fact, if we look around beyond the earth, the material order is visible even in the form of 
  	stars, planets, moons and several astronomical bodies. 
@@ -115,7 +115,7 @@ Pranic order Our land mass is covered with grass and small shrubs and they form 
 Animal order  Animals and birds form the third largest order and we call them the animal order or jiva avastha. Here again, we see that the plant/bio order is far greater in quantity than the animal order. 
 Human order Human are the smallest order and they are referred to as human order or gyana avastha. Animals are far greater in quantity as compared to the human order. 
  
-Q 12. Explain the differences and similarities between animal order and human order. What is the  relation between the two orders? (UPTU 2009 - 10) 
+#### Q 12. Explain the differences and similarities between animal order and human order. What is the  relation between the two orders? (UPTU 2009 - 10) 
 Present the difference and similarity between a human being and an animal. Give examples to 
  	support your answer. (MTU 2010 – 11) 
 ANS. The two orders can be distinctly recognised in terms of their characteristics, participation with other units in similar order, activities, pattern of inheritance, etc. We can see this in the following diagram: 
@@ -236,7 +236,7 @@ order 	and 	respiration) in 	body + will 	worsen) in body 	(assuming, 	conforman
  
  
  
- Q 14. What are the four orders in nature? Describe their activities and natural characteristics? What do you understand by ‘activity’? Write down the activity of the four orders in nature. 
+ #### Q 14. What are the four orders in nature? Describe their activities and natural characteristics? What do you understand by ‘activity’? Write down the activity of the four orders in nature. 
  	(UPTU 2011 – 12) 
 Distinguish between the activities of different orders of nature giving an example of each. (MTU 
  	2011 – 12) 
@@ -259,7 +259,7 @@ Human order
  	Human beings   
  	 	(Composition / decomposition, respiration) in body + (selection, thought, desire) in ‘I’ 	(Composition / decomposition, nurture / worsen) in body + (perceverance, bravery, generosity) in ‘I’ 
  
-Q 15. How will you show interconnectedness and mutual fulfilment in four order of nature with  	examples. 
+#### Q 15. How will you show interconnectedness and mutual fulfilment in four order of nature with  	examples. 
 “Other than human order, the three orders are mutually fulfilling to each other”. Explain with  	examples. 
 Material, pranic and animal order are fulfilling human order but human are not fulfilling them.  There is lack of mutual fulfilment from human order. How and why is it so? 
 Discuss the human interrelationship with nature. 
@@ -280,7 +280,7 @@ Material Order, Plant/Bio- Order, Animal Order and Human Order: We humans also h
  	nature except human order. We have to work on this. 
  
  
-Q 16. Explain how there is recyclability and self regulation in nature. 
+#### Q 16. Explain how there is recyclability and self regulation in nature. 
 Write a short note on the recyclability and self-regulation in nature. 
  	Explain the recyclability in nature with any two examples. (UPTU 2009-10) 
 There is recyclability in nature. Explain this statement with any two examples. How does it  	help in production activity? (UPTU 2011 - 12) 
@@ -288,7 +288,7 @@ Explain the recyclability of any two units in nature with examples. How is it us
  	sustainable production activities? (UPTU 2010 – 11) 
 ANS. There are several cyclical processes that we can see in nature. For example the cycle of water, evaporating, condensing and precipitating back to water giving the weather phenomena. The cycles keep these materials self-regulated on the earth. Breeds of plants and animals are similarly self-regulated in their environment. In a forest, the growth of trees takes place in a way so that the amount of soil, plants and animals remains conserved. It never happens that the number of trees shoots up and there is a lack of soil for the trees. The appropriateness of the conditions for growth of both plants and animals are self-regulated in nature keeping the population proportions naturally maintained. This phenomenon is termed as selfregulation. In a single breed of animals, the number of males and females generated through procreation is such that the continuity of species is ensured by itself. This happens with humans too, but inhuman practices have led to disproportionate numbers of men and women. These two characteristics namely, cyclical nature and self-regulation provide us with some clues of the harmony that is in nature. 
  
- Q 17. What do you mean by ‘conformance’? Explain the conformance in the four orders. 
+ #### Q 17. What do you mean by ‘conformance’? Explain the conformance in the four orders. 
 ANS. Each unit conforms through the principle of conformance or anusangita. It means how the continuity of the fundamental nature of the unit is preserved. 
 Order 	Material order 	Pranic order 	Animal order 	Human order 
 Things 	Soil, water, metals, etc. 	Plants and trees 	Animals and birds 	Human beings 
@@ -304,7 +304,7 @@ Animal order   We see that a cow is always like a cow, and a dog is always like 
  	continuity of an animal species is mentained in nature/existence. 
 Human (knowledge) order  We can see that we humans are not according to our lineage or race, as in animals. We may pick up something from our parents as we grow up, but we are usually very different in many ways from them. We humans are according to our imagination; according to our desires, thoughts and selection in ‘I’. the desires, thoughts and selections we have in ‘I’ can come from anywhere. It can come from past memories, it can come from our parents, the environment, the media, anywhere. In the case of humans, we can say ‘as the education, so the human’. We are according to our desires, thoughts and selections. Together, we call these ‘sanskara’. Hence, we say that a human being comforms to his or her sanskar or has ‘sanskaar conformance’. 
  
-Q 18. How is 	 the activity in human order is different with that of animal and plant order? 
+#### Q 18. How is 	 the activity in human order is different with that of animal and plant order? 
 ANS. An activity means something that ‘has motion’ and /or ‘has a result’. The material order is active in multiple ways, and the same with the plant order or animal order or human order. We are sitting in a room. But we are active. We are thinking, desiring, the body has breath running, heart throbbing. The air in the room is blowing. The wall standing constantly also have activity. The chair in the room is also active. It may not be very visible to our eyes but the chair is still active. We can understand this activity in two ways: 
  
  Things that we see are ‘visibly moving’, through the naked eyes, such as a spinning top, a moving bus, a running man, are active, and
@@ -352,24 +352,24 @@ Animal order
 Human order 
  	Human beings 
  	Recognising, fulfillment in body + (knowing, assuming, recognising, fulfillment) in ‘I’ 
-Q 19. Explain the basic activity in the four orders in nature. ANS. 
+#### Q 19. Explain the basic activity in the four orders in nature. ANS. 
  
 In the material and pranic order, there is only recognizing and fulfilment. Such units do not have the activities of assuming and knowing. Take for example, hydrogen and oxygen recognise the relation to each other, and combine to form water. A brick and the other brick have a definite relation, recognise it and get arranged to form a building. A plant recognises the relation with sun and water, and fulfils it by acting accordingly. Such activities take place in a similar way all the time, there is no seleciton involved here. A plant does not choose to turn or not to turn to sun, absorb or not to absorb water. Similarly, the fan in your room does not choose to rotate clockwise or anti-clockwise. It turns as per the winding in the 
  motor. No choise. 
 When we look at the animals and humans, we find selection taking place. 
  
- Q 20. Define ‘units’ and ‘space’. 
+ #### Q 20. Define ‘units’ and ‘space’. 
 ANS. There are two kinds of realities in existence: units and space. Unit is something that is limited in size. Like a small blade of human hair to the biggest planets we know of, they are all limited in size i.e. bounded on six sides. So all the things we have been studying so far: the human beings, animals, lumps of matter as well as various atoms and molecules, are all units. We can recognize them as such, they are countable. 
 Whereas, space is not a unit but it exists, as a reality. We can’t touch it, smell it. We normally just see through it. It exists everywhere. In other words the empty area all around the nature is space. 
  
-Q 21. Comment on the statement: “Nature is li 	mited and space is unlimited.” 
+#### Q 21. Comment on the statement: “Nature is li 	mited and space is unlimited.” 
 ANS. Nature has four orders and there are units in each order. Each unit is limited in size. The size ranges from being really small (atom) to really big (galaxies). Each and every unit is finite and limited in size, be it the smallest particle or the biggest galaxies. Space, on the other hand is unlimited. Space has no ‘size’, unlike units, it is not bounded. So, there is no beginning or end to space, as there is to units. For example, when we take a book, we know that it starts and finishes. We say the book is ‘limited’ in size. When we take space, there is no such thing. There is space behind us, inside us, between us and the book, between the book and the earth, in the book, in every page of it, inside the page, and beyond the earth…. all the way till we can imagine. We find that space pervades; it is all-pervading. Units, on the other hand are not all-pervading. This is how we recognize them as units. 
  
-Q 22. How can we say that ‘nature is Self Organized and in space Self-Organization Is Available.’ ANS. Every unit is an organization. A unit recognizes other units and combines to form a bigger organization. Starting from the atom, to the big galaxy, this organization goes on, as a self-organization. At every level, we get a self-organization. Sub atomic particles recognize each other and come together to form atoms. Cells recognize each other and form organizations like organs and a body. Planetary bodies, solar systems, galaxies are still bigger organizations. We are not organizing it. We are not supplying it organization from outside. 	 
+#### Q 22. How can we say that ‘nature is Self Organized and in space Self-Organization Is Available.’ ANS. Every unit is an organization. A unit recognizes other units and combines to form a bigger organization. Starting from the atom, to the big galaxy, this organization goes on, as a self-organization. At every level, we get a self-organization. Sub atomic particles recognize each other and come together to form atoms. Cells recognize each other and form organizations like organs and a body. Planetary bodies, solar systems, galaxies are still bigger organizations. We are not organizing it. We are not supplying it organization from outside. 	 
 When we look at humans, we see that we are self-organized at the level of the body. We are not organizing the body. We are not doing anything for the coordination between the heart, kidneys, lungs, eyes, brain, hands, legs, etc. All these are functioning together. Our input is needed only to provide the required nutrition, and to assist the body when we fall sick/get injured. At the level of ‘I’, we are not selforganized, but being in space, self-organization is available to the self (‘I’). That’s why we are in pursuit of happiness, which is essentially being in harmony. Whenever we are not in harmony, we are unhappy. 	 
 All the units of four orders are self-organized. No one is organizing them from outside. No one is supplying this organization. This self-organization is available to units being in space. Hence, for space, we say ‘self organization is available’. 
  
-Q 23. Define existence? Show that existence is in a form of co 	-existence. 
+#### Q 23. Define existence? Show that existence is in a form of co 	-existence. 
 Existence is co-existence of mutually interacting units in all-pervasive space. Explain. (UPTU 
  	2010–11) 
 “Existence = Nature submerged in space” – Elaborate this point. Short notes on Co-existence of units in space. 
@@ -409,7 +409,7 @@ Existence = space + units (in space) Since nature consists of the four orders we
 “Existence = Nature submerged in space”. 
 Nature = Four orders (Material, Plant/Bio or Pranic, Animal and Human Order) 
  
-Q 24. Explain the concept of holistic perception of harmony in existence. 	 
+#### Q 24. Explain the concept of holistic perception of harmony in existence. 	 
 ANS. The existence is units in space. Space is the empty area all around. The units are of two types: material 
 (insentient) and conscious (the sentient ‘I’). The material units are transformable, and their composition keeps on changing, hence these are gathansheel. The other category of units, the sentient ‘I’, does not transform and are complete in composition, hence gathanpurna. The material units are changeful (with activities of recognizing and fulfilment only) while the other kinds of units are continuous (with activities of knowing, assuming, recognizing and fulfilment). The material units are available in two orders – material order and pranic order. In the material order, an atom combines with another atom to form a molecule; a molecule similarly forms a molecular structure. Molecular structures are found in two forms: lumps and fluids. Fluids give nutrition to pranic order. In pranic order, the smallest units are plant cells which combine with other cells to form plants, animal bodies and human bodies. 
  
@@ -417,7 +417,7 @@ The co-existence of ‘I’ with the animal body becomes the animal order, and t
 If we look at the left side of the chart, the transformation keeps taking place and the transformation is cyclic in nature. But on the right hand side, the transitions are acyclic. This implies that what we have understood continues to stay with us. We will never miss it. This is a transition in one direction. This is actually called development (vikas). 
 So, Existence is in the form of co-existence. It is in Harmony. We don’t have to create this harmony, it already exists. We only have to understand it to be in it. This means that having the knowledge of self (‘I’) gives me the knowledge of humane conduct (how to live in existence, with the four orders). With this knowledge, I can live with humane conduct. This is the pending task we have to complete. 
  
-Q 25. E 	xplain energized and energy in equilibrium. 
+#### Q 25. E 	xplain energized and energy in equilibrium. 
 ANS. What we normally call or consider as energy today, is the ‘transfer of energy’. For example, when you place water in a vessel on the stove, we say the heat energy from the flame was transferred to the water in the vessel. Anything that is a unit, has activity, anything that has activity, is energized. All the particles in the water and the metal stove are active, very active and energized. Hence we don’t say that space is energized but we say ‘space is energy in equilibrium’ or it is ‘constant energy’. All units are energized in space. 	 
 This energy is available to all units. In other words, space is equilibrim energy, all units are in 
 space; all units are energized and active being in space. 
